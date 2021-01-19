@@ -1,0 +1,33 @@
+@import "./bulma/utilities/_all";
+@import "./variables";
+@import "./bulma/base/_all";
+@import "./bulma/elements/content";
+@import "./bulma/elements/title";
+@import "./bulma/elements/container";
+@import "./bulma/elements/table";
+@import "./bulma/layout/_all";
+@import "./bulma/components/navbar";
+@import "./tabs";
+@import "./forms";
+@import "./contact";
+
+body, html {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+footer{
+  padding: 1rem 1rem 1rem !important;
+}
+
+#content {
+  margin-top: 20px;
+  flex: 1;
+  margin-bottom: 20px;
+}
+
+.homepage {
+  font-size: 25px;
+}

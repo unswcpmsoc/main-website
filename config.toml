@@ -1,0 +1,9 @@
+baseURL = "https://unswcpmsoc.com/"
+languageCode = "en-us"
+title = "UNSW Competitive Programming and Mathematics Society"
+theme = "cpmsoc"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,15 @@
+{{ $current := .parent }}
+{{ if .item.HasChildren }}
+<div class="navbar-item has-dropdown is-hoverable">
+  <a class="navbar-link">
+    {{ .item.Name }}
+  </a>
+  <div class="navbar-dropdown">
+    {{ range .item.Children }}
+    {{ partial "navbar-item" (dict "item" . "parent" $current ) }}
+    {{ end }}
+  </div>
+</div>
+{{ else }}
+<a href="{{ .item.URL }}" {{ if hasPrefix .item.Identifier "ext-" }}target="_blank"{{ end }} class="navbar-item{{if or (.parent.IsMenuCurrent "main" .item)}} is-active{{end}}">{{ .item.Name }}</a>
+{{ end }}
