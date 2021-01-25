@@ -8,6 +8,11 @@ weight: 40
   <button class="tablinks" onclick="openYear(event, '2019')">2019</button>
   <button class="tablinks" onclick="openYear(event, '2018')">2018</button>
   <button class="tablinks" onclick="openYear(event, '2017')">2017</button>
+  <button class="tablinks" onclick="openYear(event, '2016')">2016</button>
+  <button class="tablinks" onclick="openYear(event, '2015')">2015</button>
+  <button class="tablinks" onclick="openYear(event, '2014')">2014</button>
+  <button class="tablinks" onclick="openYear(event, '2013')">2013</button>
+  <button class="tablinks" onclick="openYear(event, '2012')">2012</button>
 </div>
 
 <div id="2020" class="tabcontent">
@@ -63,6 +68,60 @@ weight: 40
         <table id="2017_ICPC_W"></table>
 </div>
 
+<div id="2016" class="tabcontent">
+    <h2>International Collegiate Programming Contest</h2>
+      <h3>Divisionals</h3>
+        <table id="2016_ICPC_D"></table>
+      <h3>Regionals</h3>
+        <table id="2016_ICPC_R"></table>
+      <h3>World Finals</h3>
+        <table id="2016_ICPC_W"></table>
+</div>
+
+<div id="2015" class="tabcontent">
+    <h2>International Collegiate Programming Contest</h2>
+      <h3>Divisionals</h3>
+        <table id="2015_ICPC_D"></table>
+      <h3>Regionals</h3>
+        <table id="2015_ICPC_R"></table>
+      <h3>World Finals</h3>
+        <table id="2015_ICPC_W"></table>
+</div>
+
+<div id="2014" class="tabcontent">
+    <h2>International Collegiate Programming Contest</h2>
+      <h3>Divisionals</h3>
+        <table id="2014_ICPC_D"></table>
+      <h3>Regionals</h3>
+        <table id="2014_ICPC_R"></table>
+      <h3>World Finals</h3>
+        <table id="2014_ICPC_W"></table>
+</div>
+
+<div id="2014" class="tabcontent">
+    <h2>International Collegiate Programming Contest</h2>
+      <h3>Regionals</h3>
+        <table id="2014_ICPC_R"></table>
+      <h3>World Finals</h3>
+        <table id="2014_ICPC_W"></table>
+</div>
+
+<div id="2013" class="tabcontent">
+    <h2>International Collegiate Programming Contest</h2>
+      <h3>Regionals</h3>
+        <table id="2013_ICPC_R"></table>
+      <h3>World Finals</h3>
+        <table id="2013_ICPC_W"></table>
+</div>
+
+<div id="2012" class="tabcontent">
+    <h2>International Collegiate Programming Contest</h2>
+      <h3>Regionals</h3>
+        <table id="2012_ICPC_R"></table>
+      <h3>World Finals</h3>
+        <table id="2012_ICPC_W"></table>
+</div>
+
 <script type="text/javascript" src="/scripts/tabs.js"></script>
 <script type="text/javascript" src="/scripts/results_table.js"></script>
 <script type="text/javascript">
@@ -86,4 +145,22 @@ weight: 40
     makeTable("/assets/results/2017/ICPC/divisionals.csv","2017_ICPC_D");
     makeTable("/assets/results/2017/ICPC/regionals.csv","2017_ICPC_R");
     makeTable("/assets/results/2017/ICPC/worlds.csv","2017_ICPC_W");
+
+    makeTable("/assets/results/2016/ICPC/divisionals.csv","2016_ICPC_D");
+    makeTable("/assets/results/2016/ICPC/regionals.csv","2016_ICPC_R");
+    makeTable("/assets/results/2016/ICPC/worlds.csv","2016_ICPC_W");
+
+    makeTable("/assets/results/2015/ICPC/divisionals.csv","2015_ICPC_D");
+    makeTable("/assets/results/2015/ICPC/regionals.csv","2015_ICPC_R");
+    makeTable("/assets/results/2015/ICPC/worlds.csv","2015_ICPC_W");
+
+    makeTable("/assets/results/2014/ICPC/divisionals.csv","2014_ICPC_D");
+    makeTable("/assets/results/2014/ICPC/regionals.csv","2014_ICPC_R");
+    makeTable("/assets/results/2014/ICPC/worlds.csv","2014_ICPC_W");
+
+    makeTable("/assets/results/2013/ICPC/regionals.csv","2013_ICPC_R");
+    makeTable("/assets/results/2013/ICPC/worlds.csv","2013_ICPC_W");
+
+    makeTable("/assets/results/2012/ICPC/regionals.csv","2012_ICPC_R");
+    makeTable("/assets/results/2012/ICPC/worlds.csv","2012_ICPC_W");
 </script>
