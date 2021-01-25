@@ -1,0 +1,89 @@
+---
+title: "Results"
+menu: "main"
+weight: 40
+---
+<div class="tab" style="overflow:auto;white-space:nowrap;">
+  <button class="tablinks" onclick="openYear(event, '2020')" id="defaultOpen">2020</button>
+  <button class="tablinks" onclick="openYear(event, '2019')">2019</button>
+  <button class="tablinks" onclick="openYear(event, '2018')">2018</button>
+  <button class="tablinks" onclick="openYear(event, '2017')">2017</button>
+</div>
+
+<div id="2020" class="tabcontent">
+  <h2>International Collegiate Programming Contest</h2>
+    <h3>Regionals Division 1</h3>
+      <table id="2020_ICPC_D1"></table>
+    <h3>Regionals Division 2</h3>
+      <table id="2020_ICPC_D2"></table>
+  <h2>Simon Marais Mathematics Competition</h2>
+    <h3>Individuals</h3>
+      <table id="2020_SMMC_I"></table>
+    <h3>Pairs</h3>
+      <table id="2020_SMMC_P"></table>
+</div>
+
+<div id="2019" class="tabcontent">
+  <h2>International Collegiate Programming Contest</h2>
+    <h3>Divisionals</h3>
+      <table id="2019_ICPC_D"></table>
+    <h3>Regionals</h3>
+      <table id="2019_ICPC_R"></table>
+    <h3>World Finals</h3>
+      <table id="2019_ICPC_W"></table>
+  <h2>Simon Marais Mathematics Competition</h2>
+    <h3>Individuals</h3>
+      <table id="2019_SMMC_I"></table>
+    <h3>Pairs</h3>
+      <table id="2019_SMMC_P"></table>
+</div>
+
+<div id="2018" class="tabcontent">
+  <h2>International Collegiate Programming Contest</h2>
+    <h3>Divisionals</h3>
+      <table id="2018_ICPC_D"></table>
+    <h3>Regionals</h3>
+      <table id="2018_ICPC_R"></table>
+    <h3>World Finals</h3>
+      <table id="2018_ICPC_W"></table>
+  <h2>Simon Marais Mathematics Competition</h2>
+    <h3>Individuals</h3>
+      <table id="2018_SMMC_I"></table>
+    <h3>Pairs</h3>
+      <table id="2018_SMMC_P"></table>
+</div>
+
+<div id="2017" class="tabcontent">
+    <h2>International Collegiate Programming Contest</h2>
+      <h3>Divisionals</h3>
+        <table id="2017_ICPC_D"></table>
+      <h3>Regionals</h3>
+        <table id="2017_ICPC_R"></table>
+      <h3>World Finals</h3>
+        <table id="2017_ICPC_W"></table>
+</div>
+
+<script type="text/javascript" src="/scripts/tabs.js"></script>
+<script type="text/javascript" src="/scripts/results_table.js"></script>
+<script type="text/javascript">
+    makeTable("/assets/results/2020/ICPC/div1.csv","2020_ICPC_D1");
+    makeTable("/assets/results/2020/ICPC/div2.csv","2020_ICPC_D2");
+    makeTable("/assets/results/2020/SMMC/individuals.csv","2020_SMMC_I");
+    makeTable("/assets/results/2020/SMMC/pairs.csv","2020_SMMC_P");
+
+    makeTable("/assets/results/2019/ICPC/divisionals.csv","2019_ICPC_D");
+    makeTable("/assets/results/2019/ICPC/regionals.csv","2019_ICPC_R");
+    makeTable("/assets/results/2019/ICPC/worlds.csv","2019_ICPC_W");
+    makeTable("/assets/results/2019/SMMC/individuals.csv","2019_SMMC_I");
+    makeTable("/assets/results/2019/SMMC/pairs.csv","2019_SMMC_P");
+    
+    makeTable("/assets/results/2018/ICPC/divisionals.csv","2018_ICPC_D");
+    makeTable("/assets/results/2018/ICPC/regionals.csv","2018_ICPC_R");
+    makeTable("/assets/results/2018/ICPC/worlds.csv","2018_ICPC_W");
+    makeTable("/assets/results/2018/SMMC/individuals.csv","2018_SMMC_I");
+    makeTable("/assets/results/2018/SMMC/pairs.csv","2018_SMMC_P");
+
+    makeTable("/assets/results/2017/ICPC/divisionals.csv","2017_ICPC_D");
+    makeTable("/assets/results/2017/ICPC/regionals.csv","2017_ICPC_R");
+    makeTable("/assets/results/2017/ICPC/worlds.csv","2017_ICPC_W");
+</script>
