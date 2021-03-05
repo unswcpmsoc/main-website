@@ -211,7 +211,7 @@ Then our answer is just the largest value in solution.
 This is O(N)
 */
 /*
-K = 2
+(6) K = 2
 Say for our first jump we jump from M to i. For our second jump we should get as many points as possible.
 This should be easy to convince yourself of. If we have already jumped from M to i,
 then to maximise our total points we just want to maximise our next jump.
@@ -244,7 +244,7 @@ For the sake of simplicity we will set max_all[i] = max(max_end[i],max_start[i])
 This is O(N)
 */
 /*
-M = 1
+(7) M = 1
 It turns out that the observations we made previously applies to K > 2 too.
 That is, we want to jump to a square i, then from i we want to take the largest point jump possible to j.
 Then from j we want to jump back to i, then back to j and so on.
