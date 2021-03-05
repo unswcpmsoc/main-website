@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <div class="blog-post">
+    <h1 class="is-1 title">
+      {{ if .Draft }}[DRAFT] {{ end }}{{ .Title }}
+    </h1>
+    <h2 class="subtitle">
+      By {{ if .Params.author }}{{ .Params.author }}{{ else }}CPMSoc{{ end }}
+    </h2>
+    <span class="time">{{ .PublishDate.Format "2 January 2006" }}</span>
+
+    <div class="content">
+      {{ .Content }}
+    </div>
+
+    <a class="back" href="/blog">Other posts...</a>
+  </div>
+{{ end }}

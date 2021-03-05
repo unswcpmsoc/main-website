@@ -1,0 +1,24 @@
+.blog-card {
+  padding: 25px;
+  background-color: $scheme-main-bis;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.blog-card > .subtitle {
+  margin-bottom: 0;
+}
+
+.blog-card > .summary {
+  margin-top: 20px;
+}
+
+.blog-post > .subtitle {
+  margin-bottom: 0;
+}
+
+.blog-post > .content {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}

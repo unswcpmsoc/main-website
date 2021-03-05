@@ -1,0 +1,19 @@
+{{ define "main" }}
+    <h1 class="title is-1">Blog</h1>
+    <div class="container">
+      {{ range .Data.Pages }}
+      <div class="box blog-card">
+        <h1 class="title">
+          <a href="{{ .RelPermalink }}">{{ if .Draft }}[DRAFT] {{ end }}{{ .Title }}</a>
+        </h1>
+        <h2 class="subtitle">
+          By {{ if .Params.author }}{{ .Params.author }}{{ else }}CPMSoc{{ end }}
+        </h2>
+        <span class="time">{{ .PublishDate.Format "2 January 2006" }}</span>
+        
+        <p class="summary">{{ .Summary }}</p>
+        <span><a href="{{ .RelPermalink }}">Read more...</a></span>
+      </div>
+      {{ end }}
+    </div>
+{{ end }}
