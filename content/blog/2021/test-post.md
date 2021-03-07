@@ -18,3 +18,6 @@ int main() {
   return 0;
 }
 ```
+
+This is a $test^{0}$.
+$$a^{2}nother test$$.
