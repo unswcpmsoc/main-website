@@ -20,4 +20,4 @@ int main() {
 ```
 
 This is a $test^{0}$.
-$$a^{2}nother test$$.
+$$a^{2}nother test.$$
