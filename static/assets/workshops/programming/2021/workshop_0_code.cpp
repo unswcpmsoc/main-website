@@ -113,7 +113,7 @@ int main() {
 
 // Bad Subarrays - O(N)
 // We make no assumptions apart from any contiguous subarray will fit into a C++ int
-// This requires use of a map, which will be taught in Workshop #1
+// This requires use of a map, which will be taught later
 // The problem Good Subarrays does not require a map
 // http://www.cplusplus.com/reference/map/map/
 #include <stdio.h>
