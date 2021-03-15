@@ -52,9 +52,9 @@ weight: 30
 
 #### 2.1  Contact details for members of the club are to remain with the Executive and Arc to have sole access. Contact details are not to be given or sold to any other person.
 
-#### 2.2  Associate membership shall be open to those UNSW students who are ineligible for membership, as well as UNSW alumni and current UNSW staff, provided that they complete a membership form prepared by the club Executive).
+#### 2.2  Associate membership shall be open to those UNSW students who are ineligible for membership, as well as UNSW alumni and current UNSW staff, provided that they complete a membership form prepared by the club Executive.
 
-#### 2.3  he duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
+#### 2.3  The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
 
 #### 2.4  The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
 
