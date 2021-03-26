@@ -12,5 +12,5 @@ theme = "cpmsoc"
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
-    url = "http://blog.unswcpmsoc.com/"
+    url = "https://blog.unswcpmsoc.com/"
     weight = 100
