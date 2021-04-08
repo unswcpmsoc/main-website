@@ -24,7 +24,7 @@ If you need javascript, put it under `content/scripts` with a descriptive filena
 
 #### Page Assets
 
-Any small assets such as images go under `content/assets`. Large files should be uploaded to a separate service such as Google Drive and the webpage should link to it.
+Any small assets such as images go under `static/assets`. Large files should be uploaded to a separate service such as Google Drive and the webpage should link to it.
 
 #### Styles
 
