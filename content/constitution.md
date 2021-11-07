@@ -261,7 +261,7 @@ weight: 30
 
     2. Given in writing to all club members, or upon approval by Arc displayed in a way that will guarantee an acceptable level of exposure among club members.
 
-- 4.1.3 Quorum for the Annual General Meeting shall be ten (10) members or one half of the club membership, whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
+- 4.1.3 Quorum for the Annual General Meeting shall be fifteen (15) members or one half of the club membership, whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
 
 - 4.1.4 At an Annual General Meeting:
 
@@ -281,7 +281,7 @@ weight: 30
 
 - 4.2.2 The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified.
 
-- 4.2.3 To petition for an Extraordinary General Meeting, ten (10) members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
+- 4.2.3 To petition for an Extraordinary General Meeting, fifteen (15) members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
 
 - 4.2.4 Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than seven (7) days.
 
@@ -333,7 +333,7 @@ weight: 30
 
 - 6.1.5 After the petitioning body has stated its case any opposition must be given the opportunity to reply, with at least ten minutes set aside for this purpose;
 
-- 6.1.6 A vote is taken and the motion to dissolve lapses if opposed by ten (10) or more members of the club;
+- 6.1.6 A vote is taken and the motion to dissolve lapses if opposed by fifteen (15) or more members of the club;
 
 - 6.1.7 If the motion to dissolve is carried, Arc must be notified within fourteen (14) days.
 
