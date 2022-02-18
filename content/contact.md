@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 menu: "main"
-weight: 60
+weight: 100
 ---
 
 <a href="https://www.facebook.com/CPMSoc/" target="_blank"><img src="/assets/facebook.png" class="contact-thumb"></a>
