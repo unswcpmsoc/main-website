@@ -1,3 +1,5 @@
+// Trading at IMC II
+// https://www.hackerrank.com/contests/imc-x-csesoc-x-cpmsoc-coding-competition-division-b/challenges/imc21-b12/submissions/code/1342408058
 #include <bits/stdc++.h>
 
 using namespace std;
