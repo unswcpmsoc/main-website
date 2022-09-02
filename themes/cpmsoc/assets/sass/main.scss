@@ -32,6 +32,12 @@ body, html {
     background-color: $background;
 }
 
+.navbar-item {
+    font-family: Roboto, Arial;   
+    // color: $link-color;
+}
+
+
 .social {
     height: 56px;
     width: 56px;
@@ -73,6 +79,9 @@ body, html {
     
     .button {
         background-color: $link-color;
+        font-family: Roboto, Arial;  
+        font-size: 1.0em; 
+        font-weight: bold;
     }
 
     h1, h2, h3, h4, h5, h6, .title {
