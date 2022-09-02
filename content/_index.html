@@ -1,7 +1,9 @@
 ---
 title: "Home"
+menu: "main"
+weight: 1
 ---
-<style>
+<!-- <style>
   .banner {
     font-family: "HelveticaNeueLTPro-Roman";
     color: rgb(255, 255, 255);
@@ -15,44 +17,86 @@ title: "Home"
 </style>
 
 <div class="banner"></div>
-<br>
+<br> -->
 
-<div class="homepage">
-  <p>
-    UNSW Competitive Programming and Mathematics Society fosters a community of students who are interested in competitive programming and/or competitive mathematics.
-  </p>
-  <br>
-  <p>
-    We host regular competitions and workshops to challenge students and improve their problem solving skills, as well as social events. Our in-person events have free food!
-  </p>
-  <br>
-  <p>
-    Everyone is welcome! To stay up to date, join us in these places:
-  </p>
-  <p>
-    <ul>
-      <li>
-        <a href="https://member.arc.unsw.edu.au/s/clubdetail?clubid=0016F00003o2esqQAA">SpArc</a>
-      </li>
-      <li>
-        <a href="https://discord.gg/9uxgxHY3pP">Discord server</a>
-      </li>
-      <li>
-        <a href="https://www.facebook.com/CPMSoc">Facebook page</a>
-      </li>
-      <li>
-        <a href="https://www.facebook.com/groups/cpmsoc">Facebook group</a>
-      </li>
-      <li>
-        <a href="https://www.instagram.com/cpmsoc_unsw/">Instagram</a>
-      </li>
-      <li>
-        <a href="https://www.linkedin.com/company/cpmsoc/">LinkedIn</a>
-      </li>
-      <li>
-        <a href="https://forms.gle/3rEeBweFcpeeF7mD6">Mailing List</a>
-      </li>
-    </ul>
-  </p>
-  <br>
+<div class="content">
+    <!-- Spacing that only displays in tablet or higher -->
+    <div class="mobile-hidden">
+        <br><br><br><br><br>
+    </div>
+
+    <!-- Introduction -->
+    <div class="columns">
+        <div class="column is-4 is-8-mobile is-offset-2-mobile">
+            <img class="mx-auto" src="/assets/icons/00_trophy.png">
+        </div>
+        <div class="column is-8 is-12-mobile">
+            <div>
+                <h1 id="display">Welcome to CPMSoc!</h1>
+            </div>
+            <div class="columns">
+                <div class="column is-9 is-12-mobile has-text-justified">
+                    <p>Hi! We're the UNSW Competitive Programming and Mathematics Society, a student society run by and for people who share a love of <strong>problem solving</strong>.</p>
+                    <p>We run regular workshops and competitions, as well as social and professional events. <strong>Everyone is welcome</strong>, regardless of prior experience!</p>
+                </div>
+            </div>
+            <div class="columns is-mobile">
+                <div class="column is-mobile has-text-right mt-3">
+                    <img id="follow" src="/assets/icons/07_follow.png">
+                    <a href="https://www.facebook.com/CPMSoc/"><img class="social" src="/assets/icons/facebook_purple.png"></a>
+                    <a href="https://discord.gg/9uxgxHY3pP"><img class="social" src="/assets/icons/discord_purple.png"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sections -->
+    <br><br>
+    <div class="mobile-shown">
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    </div>
+
+    <div class="columns mt-6">
+        <div class="column is-8 is-12-mobile">
+            <h2>Stay Updated</h1>
+            <p>Follow us on <strong>Facebook</strong> to receive regular updates on all our exciting events and workshops. You can also get updates on our <strong>Discord</strong>, and join in on the discussion too!</p>
+            <div class="columns is-mobile">
+                <div class="column is-mobile mt-3">
+                    <a href="https://www.facebook.com/CPMSoc/"><img class="social" src="/assets/icons/facebook_purple.png"></a>
+                    <a href="https://discord.gg/9uxgxHY3pP"><img class="social" src="/assets/icons/discord_purple.png"></a>
+                </div>
+            </div>
+        </div>
+        <div class="column is-4 is-8-mobile is-offset-2-mobile">
+            <img class="mx-auto" src="/assets/icons/01_tree.png">
+        </div>
+    </div>
+
+    <div class="columns my-5">
+        <div class="mobile-hidden column is-4 is-8-mobile is-offset-2-mobile ">
+            <img class="mx-auto" src="/assets/icons/02_buildings.png">
+        </div>
+        <div class="column is-8 is-12-mobile">
+            <h2>Getting Started</h2>
+            <p>CPMSoc regularly pushes out materials to help you learn. If you're new to all this, check out <strong>beginner guides</strong> at CP101 for programming and CM101 for maths</p>
+            <a href="/cp101/" class="button is-link px-6 mr-3 mt-3">CP101</a> 
+            <a href="/cm101/" class="button is-link px-6 mt-3">CM101</a>
+        </div>
+
+        <!-- Move the picture after the text when displayed on mobile -->
+        <div class="mobile-shown column is-4 is-8-mobile is-offset-2-mobile ">
+            <img class="mx-auto" src="/assets/icons/02_buildings.png">
+        </div>
+    </div>
+
+    <div class="columns my-5">
+        <div class="column is-8 is-12-mobile">
+            <h2>Questions?</h1>
+            <p>We're always happy to help you out in any way we can! Message us  on Facebook or Discord, or shoot us an email!</p>
+            <a href="/contact/" class="button is-link px-6 mr-3 mt-3">Contact</a> 
+        </div>
+        <div class="column is-4 is-8-mobile is-offset-2-mobile">
+            <img class="mx-auto" src="/assets/icons/05_circle.png">
+        </div>
+    </div>
 </div>

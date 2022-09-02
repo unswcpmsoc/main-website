@@ -4,6 +4,27 @@ menu: "main"
 weight: 100
 ---
 
-<a href="https://www.facebook.com/CPMSoc/" target="_blank"><img src="/assets/facebook.png" class="contact-thumb"></a>
 
-[cpmsoc.unsw@gmail.com](mailto:cpmsoc.unsw@gmail.com)
+Contact us here
+
+[cpmsoc@unswcpmsoc.com](mailto:cpmsoc@unswcpmsoc.com)
+
+[Discord server](https://discord.gg/9uxgxHY3pP)
+
+[Facebook page](https://www.facebook.com/CPMSoc)
+
+### Socials
+
+Here are some other places you can find us
+
+[SpArc](https://member.arc.unsw.edu.au/s/clubdetail?clubid=0016F00003o2esqQAA)
+
+[Facebook group](https://www.facebook.com/groups/cpmsoc)
+
+[Instagram](https://www.instagram.com/cpmsoc_unsw/)
+
+[LinkedIn](https://www.linkedin.com/company/cpmsoc/)
+
+[Mailing List](https://forms.gle/3rEeBweFcpeeF7mD6)
+
+
