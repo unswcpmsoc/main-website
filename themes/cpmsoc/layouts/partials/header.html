@@ -1,4 +1,4 @@
-<nav class="navbar is-dark" role="navigation">
+<nav class="navbar" role="navigation">
   <div class="container">
   <div class="navbar-brand">
     <a class="navbar-item" href="{{ .Site.BaseURL }}">
@@ -11,7 +11,7 @@
     </a>
   </div>
   <div id="navbar" class="navbar-menu">
-    <div class="navbar-start">
+    <div class="navbar-end">
       {{ $current := . }}
       {{ range .Site.Menus.main }}
         {{ partial "navbar-item" (dict "item" . "parent" $current ) }}

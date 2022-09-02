@@ -1,12 +1,15 @@
 @import "./bulma/utilities/_all";
 @import "./variables";
 @import "./bulma/base/_all";
-@import "./bulma/elements/content";
-@import "./bulma/elements/title";
-@import "./bulma/elements/container";
-@import "./bulma/elements/table";
-@import "./bulma/layout/_all";
 @import "./bulma/components/navbar";
+@import "./bulma/elements/button";
+@import "./bulma/elements/container";
+@import "./bulma/elements/content";
+@import "./bulma/elements/table";
+@import "./bulma/elements/title";
+@import "./bulma/grid/columns";
+@import "./bulma/helpers/_all";
+@import "./bulma/layout/_all";
 @import "./tabs";
 @import "./forms";
 @import "./contact";
@@ -14,22 +17,82 @@
 @import "./blog";
 
 body, html {
-  height: 100%;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+    background-color: $background;
+    font-size: 1.2em;
+    font-family: Georgia, Times, Garamond, serif;   
 }
 
-footer{
-  padding: 1rem 1rem 1rem !important;
+.navbar {
+    margin-top: 3em;
+    background-color: $background;
+}
+
+.social {
+    height: 56px;
+    width: 56px;
+    margin-right: 20px;
+}
+.small-social {
+    height: 40px;
+    width: 40px;
+    margin-right: 15px;
 }
 
 #content {
-  margin-top: 20px;
-  flex: 1;
-  margin-bottom: 20px;
+    margin-top: 20px;
+    flex: 1;
+    margin-bottom: 20px;
+
+    padding: 2rem;
+
+    // hidden on mobile, shown on every other display
+    .mobile-hidden {
+        @include mobile {
+            display: none;
+        }
+        
+        @include tablet {
+            display: inline
+        }
+    }
+    // shown on mobile, hidden on every other display
+    .mobile-shown {
+        @include mobile {
+            display: inline;
+        }
+        
+        @include tablet {
+            display: none
+        }
+    }
+    
+    .button {
+        background-color: $link-color;
+    }
+
+    h1, h2, h3, h4, h5, h6, .title {
+        font-family: Roboto, Arial;   
+        font-weight: bold;
+    }
+    #display {
+        font-size: 3.2em;
+        @include mobile {
+            font-size: 3.1em;
+        }
+    }
+
+    #follow {
+        width: 230px;
+    }
 }
 
-.homepage {
-  font-size: 25px;
+.footer{
+    background-color: $background;
+    color: $primary-color;
+    padding: 1rem 1rem 1rem !important;
 }
