@@ -37,7 +37,6 @@ body, html {
     // color: $link-color;
 }
 
-
 .social {
     height: 56px;
     width: 56px;
@@ -88,6 +87,9 @@ body, html {
         font-family: Roboto, Arial;   
         font-weight: bold;
     }
+    .title {
+        color: $primary-color;
+    }
     #display {
         font-size: 3.2em;
         @include mobile {
@@ -97,6 +99,10 @@ body, html {
 
     #follow {
         width: 230px;
+    }
+
+    .is-scroll-x {
+        overflow-x: scroll;
     }
 }
 
