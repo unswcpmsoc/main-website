@@ -1,7 +1,9 @@
 ---
 title: "Constitution"
-menu: "main"
-weight: 30
+menu: 
+    main:
+        parent: "aboutus"
+        weight: 2
 ---
 
 <style type="text/css">

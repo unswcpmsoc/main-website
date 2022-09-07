@@ -9,8 +9,37 @@ theme = "cpmsoc"
       unsafe = true
 
 [menu]
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "https://blog.unswcpmsoc.com/"
-    weight = 100
+
+# Main menu dropdown  items
+[[menu.main]]
+identifier = "resources"
+name = "Resources"
+weight = 2
+
+[[menu.main]]
+identifier = "events"
+name = "Events"
+weight = 3
+
+[[menu.main]]
+identifier = "aboutus"
+name = "About Us"
+weight = 4 
+
+# Add blogs to resources
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+parent = "resources"
+url = "https://blog.unswcpmsoc.com/"
+weight = 4
+
+# Add workshops again to events
+[[menu.main]]
+identifier = "workshops"
+name = "Past Workshops"
+parent = "events"
+url = "/workshops/"
+
+
+  

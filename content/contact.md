@@ -1,7 +1,9 @@
 ---
 title: "Contact"
-menu: "main"
-weight: 100
+menu: 
+    main:
+        parent: "aboutus"
+        weight: 1
 ---
 
 
