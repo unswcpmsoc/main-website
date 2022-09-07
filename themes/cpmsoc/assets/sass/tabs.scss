@@ -1,8 +1,8 @@
 /* Style the tab */
 .tab {
   overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #252525;
+  border: 1px solid $border;
+  background-color: $background;
 }
 
 /* Style the buttons inside the tab */
@@ -15,17 +15,18 @@
   padding: 14px 16px;
   transition: 0.3s;
   font-size: 17px;
-  color: rgb(243, 235, 235);
+  color: $text;
 }
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: rgb(122, 120, 120);
+  background-color: #eee;
 }
 
 /* Create an active/current tablink class */
 .tab button.active {
-  background-color: rgb(68, 67, 67);
+  background-color: $link-color;
+  color: white;
 }
 
 /* Style the tab content */
