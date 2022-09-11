@@ -35,11 +35,11 @@ url = "https://blog.unswcpmsoc.com/"
 weight = 4
 
 # Add workshops again to events
-[[menu.main]]
-identifier = "workshops"
-name = "Past Workshops"
-parent = "events"
-url = "/workshops/"
+# [[menu.main]]
+# identifier = "workshops"
+# name = "Past Workshops"
+# parent = "events"
+# url = "/workshops/"
 
 
   
