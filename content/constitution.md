@@ -328,7 +328,7 @@ menu:
 
     3. In the case of equality of voting the President shall have a casting vote;
 
-    4. Elections for Executive shall use the “first past the post” system;
+    4. Elections for Executive shall use the “instant-runoff voting” system;
 
     5. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
 
