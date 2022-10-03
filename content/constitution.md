@@ -146,31 +146,31 @@ menu:
 
     5. To have a thorough knowledge of the club’s Constitution;
     
-    4. To ensure that changes made to the Constitution at an EGM or AGM are in line with Arc requirements;
+    6. To ensure that changes made to the Constitution at an EGM or AGM are in line with Arc requirements;
 
-    5. To ensure that any motions made at any Meeting of the Club are reflective of the Constitution;
+    7. To ensure that any motions made at any Meeting of the Club are reflective of the Constitution;
 
-    6. To plan the coming year’s activities;
+    8. To plan the coming year’s activities;
 
-    7. To act as official spokesperson for the club;
+    9. To act as official spokesperson for the club;
 
-    8. To arrive at a membership fee with the Executive;
+    10. To arrive at a membership fee with the Executive;
 
-    9. To liaise with fellow Executive members and Club members;
+    11. To liaise with fellow Executive members and Club members;
 
-    10. To acquaint each committee member with their function, responsibility, duties and maintain personal contact with them;
+    12. To acquaint each committee member with their function, responsibility, duties and maintain personal contact with them;
 
-    11. To liaise with Arc and departments of the University where necessary;
+    13. To liaise with Arc and departments of the University where necessary;
     
-    12. To ensure that all required reaffiliation documentation is submitted to Arc within the time period prescribed by Arc; 
+    14. To ensure that all required reaffiliation documentation is submitted to Arc within the time period prescribed by Arc; 
 
-    13. To ensure that an “Application for Affiliation” form accompanied by the minutes of the most recent Annual General Meeting and an updated membership list is submitted to Arc;
+    15. To ensure that an “Application for Affiliation” form accompanied by the minutes of the most recent Annual General Meeting and an updated membership list is submitted to Arc;
 
-    14. To ensure that the Treasurer submits a Financial Report to the club at the AGM and to Arc and that they have the club’s finances in good order in preparation for Spot Audits by Arc;
+    16. To ensure that the Treasurer submits a Financial Report to the club at the AGM and to Arc and that they have the club’s finances in good order in preparation for Spot Audits by Arc;
 
-    15. To ensure that Arc is informed of changes to the Executive; and
+    17. To ensure that Arc is informed of changes to the Executive; and
 
-    16. To pass on their knowledge to their successors.
+    18. To pass on their knowledge to their successors.
 
 - 3.10.3 Secretary
 
