@@ -172,7 +172,7 @@ menu:
 
     18. To pass on their knowledge to their successors.
 
-- 3.10.3 Secretary
+- 3.10.2 Secretary
 
     1. To be responsible for receiving and replying to all correspondence on behalf of the club;
 
@@ -184,7 +184,7 @@ menu:
 
     5. To maintain the membership list, updating when changes are made.
 
-- 3.10.4 Treasurer
+- 3.10.3 Treasurer
 
     1. To keep and maintain all club financial records;
 
@@ -218,7 +218,7 @@ menu:
 
     16. To ensure that under no circumstances are any expenses to be met without documentation.
 
-- 3.10.5 Arc Delegate
+- 3.10.4 Arc Delegate
 
     1. To be aware of the Arc funding system, its requirements and its possibilities for the club;
 
@@ -232,7 +232,7 @@ menu:
 
     6. To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).
 
-- 3.10.6 Grievance Officer
+- 3.10.5 Grievance Officer
 
     1. To receive complaints and grievances relating to the Club;
 
@@ -242,7 +242,7 @@ menu:
 
     4. To notify those involved of the outcome of the grievance.
 
-- 3.10.7 Equity, Diversity and Inclusion Officer
+- 3.10.6 Equity, Diversity and Inclusion Officer
 
     1. To foster an inclusive culture within the Club;
 
