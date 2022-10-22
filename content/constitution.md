@@ -78,27 +78,25 @@ menu:
 
 #### 3.1  The Executive of the club shall be elected from the full members at the Annual General Meeting and shall consist of:
 
-- 3.1.1 A President;
+- 3.1.1 Two Co-Presidents;
 
-- 3.1.2 A Vice President;
+- 3.1.2 A Secretary;
 
-- 3.1.3 A Secretary;
+- 3.1.3 A Treasurer;
 
-- 3.1.4 A Treasurer;
+- 3.1.4 An Arc Delegate;
 
-- 3.1.5 An Arc Delegate;
+- 3.1.5 A Grievance Officer; and
 
-- 3.1.6 A Grievance Officer; and
-
-- 3.1.7 An Equity, Diversity & Inclusion Officer.
+- 3.1.6 An Equity, Diversity and Inclusion Officer.
 
 #### 3.2  The term of office for each executive shall begin on the first day after the UNSW Term 3 Exam Period in the year in which they are elected, and continue until the corresponding day in the following year.
 
 #### 3.3  One member is permitted to hold up to two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the following exceptions:
 
-- 3.3.1 The positions of President and Vice President may not be held by the same person; and
+- 3.3.1 The positions of the two Co-Presidents must be held by two distinct people; and
 
-- 3.3.2 The positions of President and Treasurer may not be held by the same person.
+- 3.3.2 No single person may simultaneously hold the positions of Co-President and Treasurer.
 
 #### 3.4  Job sharing of any Executive position is not permitted.
 
@@ -136,63 +134,49 @@ menu:
 
 #### 3.10  Duties of the following Executive positions shall include but not be limited to:
 
-- 3.10.1 President
+- 3.10.1 Co-Presidents
 
     1. To chair all club, Committee, General and Annual General Meetings (held during their term) of the club;
 
     2. To oversee and coordinate the activities and administration of the club;
 
-    3. To ensure that the elected officers of the club perform duties as laid down by the clubs’ Constitution, through regular e-mail updates, regularly advertised meetings, reports and notices and/or regular newsletters;
+    3. To ensure that the elected officers of the club perform duties as laid down by the club's Constitution, through regular e-mail updates, regularly advertised meetings, reports and notices and/or regular newsletters;
 
-    4. To ensure that all other tasks necessary for the running of the activities of the club are performed, properly either by doing them or delegating the duties;
+    4. To ensure that all other tasks necessary for the running of the activities of the club are performed properly, either by doing them or by delegating the duties;
 
     5. To have a thorough knowledge of the club’s Constitution;
-
-    6. To plan the coming year’s activities;
-
-    7. To act as official spokesperson for the club;
-
-    8. To arrive at a membership fee with the Executive;
-
-    9. To liaise with fellow office bearers;
-
-    10. To acquaint each committee member with their function, responsibility, duties and maintain personal contact with them;
-
-    11. To liaise with Arc and departments of the University where necessary;
     
-    12. To ensure that all required reaffiliation documentation is submitted to Arc within the time period prescribed by Arc; 
+    6. To ensure that changes made to the Constitution at an EGM or AGM are in line with Arc requirements;
 
-    13. To ensure that an “Application for Affiliation” form accompanied by the minutes of the most recent Annual General Meeting and an updated membership list is submitted to Arc;
+    7. To ensure that any motions made at any Meeting of the Club are reflective of the Constitution;
 
-    14. To ensure that the Treasurer submits a Financial Report to the club at the AGM and to Arc and that they have the club’s finances in good order in preparation for Spot Audits by Arc;
+    8. To plan the coming year’s activities;
 
-    15. To ensure that Arc is informed of changes to the Executive; and
+    9. To act as official spokesperson for the club;
 
-    16. To pass on their knowledge to their successor.
+    10. To arrive at a membership fee with the Executive;
 
-- 3.10.2  Vice President
+    11. To liaise with fellow Executive members and Club members;
 
-    1. In the absence of the President, to chair all Club Committee, General and Annual General Meetings (held during their term) of the Club;
+    12. To acquaint each committee member with their function, responsibility, duties and maintain personal contact with them;
 
-    2. To assist the President in coordinating the activities and administration of the Club;
+    13. To liaise with Arc and departments of the University where necessary;
+    
+    14. To ensure that all required reaffiliation documentation is submitted to Arc within the time period prescribed by Arc; 
 
-    3. To have a thorough knowledge of the Club’s Constitution;
+    15. To ensure that an “Application for Affiliation” form accompanied by the minutes of the most recent Annual General Meeting and an updated membership list is submitted to Arc;
 
-    4. To ensure that changes made to the Constitution at an EGM or AGM are in line with Arc requirements;
+    16. To ensure that the Treasurer submits a Financial Report to the club at the AGM and to Arc and that they have the club’s finances in good order in preparation for Spot Audits by Arc;
 
-    5. To ensure that any motions made at any Meeting of the Club are reflective of the Constitution;
+    17. To ensure that Arc is informed of changes to the Executive; and
 
-    6. To ensure that Arc is informed of any changes to the Executive;
+    18. To pass on their knowledge to their successors.
 
-    7. To liaise with fellow Executive members and Club members; and
-
-    8. To assist the President in their duties wherever practical.
-
-- 3.10.3 Secretary
+- 3.10.2 Secretary
 
     1. To be responsible for receiving and replying to all correspondence on behalf of the club;
 
-    2. To organise meetings, agendas (in consultation with the President), and minutes;
+    2. To organise meetings, agendas (in consultation with the Co-Presidents), and minutes;
 
     3. To keep relevant club papers in order;
 
@@ -200,7 +184,7 @@ menu:
 
     5. To maintain the membership list, updating when changes are made.
 
-- 3.10.4 Treasurer
+- 3.10.3 Treasurer
 
     1. To keep and maintain all club financial records;
 
@@ -234,7 +218,7 @@ menu:
 
     16. To ensure that under no circumstances are any expenses to be met without documentation.
 
-- 3.10.5 Arc Delegate
+- 3.10.4 Arc Delegate
 
     1. To be aware of the Arc funding system, its requirements and its possibilities for the club;
 
@@ -248,7 +232,7 @@ menu:
 
     6. To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).
 
-- 3.10.6 Grievance Officer
+- 3.10.5 Grievance Officer
 
     1. To receive complaints and grievances relating to the Club;
 
@@ -258,27 +242,25 @@ menu:
 
     4. To notify those involved of the outcome of the grievance.
 
-- 3.10.7 Equity, Diversity and Inclusion Officer
+- 3.10.6 Equity, Diversity and Inclusion Officer
 
-    1. Fostering an inclusive culture within the Club;
+    1. To foster an inclusive culture within the Club;
 
-    2. Facilitating and promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and Indigenous students);
+    2. To facilitate and promote the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and Indigenous students);
 
-    3. Engaging and representing student members of non-majority demographics of the Club;
+    3. To engage and represent student members of non-majority demographics of the Club;
 
-    4. Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
+    4. To ensure the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
 
-    5. Ensuring that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
+    5. To ensure that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
 
-    6. Being an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
+    6. To be an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
 
-    7. Providing guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
+    7. To provide guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
 
-    8. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
+    8. To keep apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive; and
 
-    9. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive; and
-
-    10. Other relevant duties as required.
+    9. To monitor engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive.
 
 ## 4  Meetings
 
@@ -296,7 +278,7 @@ menu:
 
 - 4.1.4 At an Annual General Meeting:
 
-    1. Reports shall be presented by at least the President and the Treasurer;
+    1. Reports shall be presented by at least the Co-Presidents and the Treasurer;
 
     2. Full financial reports shall be presented and adopted;
 
@@ -322,15 +304,18 @@ menu:
 
 - 4.3.1 General requirements for all meetings are as follows:
 
-    1. All voting at meetings shall be with a simple majority required for a resolution to be passed;
+    1. All voting at meetings shall be with a simple majority required for a resolution to be passed.
 
-    2. Each member is entitled to one vote;
+    2. Each member is entitled to one vote.
 
-    3. In the case of equality of voting the President shall have a casting vote;
+    3. In the case of equality of voting, the Co-Presidents may each cast a single extra vote.
+       In the case that still results in equality of voting, each other member of the Executive,
+       in the order that their first position appears in 3.1, may each in turn cast
+       a single vote until the equality of voting is resolved.
 
-    4. Elections for Executive shall use the “instant-runoff voting” system;
+    4. Elections for the Executive shall use the “instant-runoff voting” system.
 
-    5. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
+    5. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting.
 
     6. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
 
