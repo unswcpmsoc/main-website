@@ -51,17 +51,7 @@ const reference = [
 ]
 
 const liveObject = [
-  {
-    "hour": 0,
-    "min": 38, 
-    "header": "Hell yeah!! Team 1 Solved problem C!",
-    "images": [
-        "balloon.jpg"
-    ],
-    "icon": "bi-alarm",
-    "iconColor": "cornflowerblue", 
-    "description": "They are lead AuIsDa by one problem solved but by penalty!!!"
-  },
+
 ]
 
 const contestStartTime = new Date('2022-12-17T12:00:00')
