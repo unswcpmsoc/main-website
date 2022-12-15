@@ -1,0 +1,48 @@
+---
+title: "ICPC Regional Final"
+menu: 
+    main:
+        parent: "events"
+        weight: 2
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+</head>
+<body>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      crossorigin="anonymous"
+    ></script>
+
+    <!--Think I can add bit description, replace it with the actual link in contest-->
+    <div id="leaderBoard"></div>
+
+    <script>
+        $(document).ready(function() {
+            // Should able to work? But not able to test on my local machine, will do further investigation later
+            $('#leaderBoard').load("https://contest.sppcontests.org/domjudge/public", (res, sta, xhr) => {
+                console.log(xhr);
+                if (sta === "error") {
+                    return "<h2>Hold on a minute</h2>";
+                }
+            });
+        });
+    </script>
+
+    <!--Find a way to sort of showing the icpc contest in a winodw I guess, also only interested in leaderboard part
+        Idea is use icpc_contest.js to do the live updates
+    -->
+    <div id="liveUpdates">
+    </div>
+
+    <script type="text/javascript" src="/content/scripts/icpc_contest.js"></script>
+</body>
+</html>
