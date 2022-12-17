@@ -108,6 +108,15 @@ function loadSingleEvent(event) {
     return imgStr;
   }
 
+  function loadVideo(event) {
+    if (event.video === undefined) return "";
+    return `
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="${event.video}" allowfullscreen></iframe>
+    </div>
+    `
+  }
+
   function loadDescription(event) {
     return `<p style="margin-left: 4.8em;">${event.description}</p><br>`;
   }
@@ -117,6 +126,7 @@ function loadSingleEvent(event) {
   var htmlStr = loadEventStart(event);
   htmlStr += loadTimeTitle(event);
   htmlStr += loadImage(event);
+  htmlStr += loadVideo(event);
   htmlStr += loadDescription(event);
   htmlStr += loadEventEnd(event);
 
@@ -147,7 +157,9 @@ function loadingStart() {
  * html for the progess
  */
 function loadingProgress() {
-  let progess = (contestEndTime.getTime() - Date.now()) / (1000 * 60 * 60);
+  let progess = Math.abs(contestEndTime.getTime() - Date.now()) / (1000 * 60 * 60);
+  progess *= 100;
+
   document.getElementById("loading-bar").innerHTML = `
     <div class="progress">
       <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="${progess}" aria-valuemin="0" aria-valuemax="100" style="width: ${progess}%"></div>
