@@ -227,6 +227,14 @@ const liveObject = [
     "iconColor": "", 
     "description": `Fun fact: Problem B is named "Begrudging Friendship 2" suggesting there is a part 1. In the Divisionals held a few months ago, we learned about Kylie and Leonard's friendship in the problem "Begrudging Frinedship". In that problem, they went to buy drinks with Kyle choosing the drinks such that the level of pettiness (defined in the problem) is maximised. In today's contest, it's Leonard's turn to choose meals for dinner, such that his pettiness value is maximised. Whilst both problems have a similar flavour text and story, they are still different problems.`
   }, {
+    "hour": "3",
+    "min": "59", 
+    "header": "Arts Student Have a Chance of Coming First",
+    "images": [],
+    "icon": "bi-fire",
+    "iconColor": "", 
+    "description": `Arts Students have solved their 9th problem, moving them up to second place. This is their first solve in over 100 minutes. This pushes AnIsDa down to third place, increasing the gap between Hell Hunt and AnIsDa. Remember both teams are from UNSW and only one of them can go to the World Finals. If AnIsDa is to make the World Finals, they have to solve at least 3 more problems in the remaining hour.`
+  }, {
     "hour": "4",
     "min": "00", 
     "header": "Final Hour",
@@ -334,7 +342,7 @@ function loadingProgress() {
 
   document.getElementById("loading-bar").innerHTML = `
     <div class="progress">
-      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 60%"></div>
+      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 80%"></div>
     </div><br>
   `;
 }
