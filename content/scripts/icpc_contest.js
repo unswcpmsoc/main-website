@@ -118,15 +118,14 @@ const liveObject = [
     "iconColor": "", 
     "description": `Problem B is a simple problem based on sorting. This problem is about two friends who are trying to allocate food, where each piece of food is given a tastiness value. The allocation needs to be done such that the difference in tastiness values is maximised. This can be solved by sorting the list of tastiness values and allocating the food greedily.`
   },
-  ,
   {
     "hour": "0",
-    "min": "54", 
+    "min": "58", 
     "header": "Contestant work hard on problems!!!",
-    "images": ["contestant2.jpg","contestant3.jpg", "contestant4.jpg"],
+    "images": ["contestant2.jpg","contestant3.jpg", "contestant4.jpg", "contestant5.jpg", "contestant6.jpg"],
     "icon": "bi-question-circle",
     "iconColor": "", 
-    "description": `Problem B is a simple problem based on sorting. This problem is about two friends who are trying to allocate food, where each piece of food is given a tastiness value. The allocation needs to be done such that the difference in tastiness values is maximised. This can be solved by sorting the list of tastiness values and allocating the food greedily.`
+    "description": ``
   }
 ]
 
@@ -227,7 +226,7 @@ function loadingProgress() {
 
   document.getElementById("loading-bar").innerHTML = `
     <div class="progress">
-      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%"></div>
+      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="13" aria-valuemin="0" aria-valuemax="100" style="width: 10%"></div>
     </div><br>
   `;
 }
