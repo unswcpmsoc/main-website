@@ -118,6 +118,16 @@ const liveObject = [
     "iconColor": "", 
     "description": `Problem B is a simple problem based on sorting. This problem is about two friends who are trying to allocate food, where each piece of food is given a tastiness value. The allocation needs to be done such that the difference in tastiness values is maximised. This can be solved by sorting the list of tastiness values and allocating the food greedily.`
   },
+  ,
+  {
+    "hour": "0",
+    "min": "54", 
+    "header": "Contestant work hard on problems!!!",
+    "images": ["contestant2.jpg","contestant3.jpg", "contestant4.jpg"],
+    "icon": "bi-question-circle",
+    "iconColor": "", 
+    "description": `Problem B is a simple problem based on sorting. This problem is about two friends who are trying to allocate food, where each piece of food is given a tastiness value. The allocation needs to be done such that the difference in tastiness values is maximised. This can be solved by sorting the list of tastiness values and allocating the food greedily.`
+  }
 ]
 
 const contestStartTime = new Date('2022-12-17T12:00:00')
