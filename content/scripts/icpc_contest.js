@@ -51,16 +51,7 @@ const reference = [
 ]
 
 const liveObject = [
-  {
-    "hour": "0",
-    "min": "-30", 
-    "header": "Cou!!!",
-    "images": [],
-    "icon": "bi-alarm",
-    "iconColor": "", 
-    "video": '<iframe width="560" height="315" src="https://www.youtube.com/embed/ijqi2TuElP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-    "description": "Contest has ended, winner is from University Of Mars!!!"
-  }
+  
 ]
 
 const contestStartTime = new Date('2022-12-17T12:00:00')
