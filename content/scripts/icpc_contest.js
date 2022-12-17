@@ -249,7 +249,7 @@ const liveObject = [
     "hour": "4",
     "min": "10", 
     "header": "Final Hour!!!",
-    "images": ["contest1.jpg", "contest2.jpg", "contest3.jpg", "contest4.jpg", "contest5.jpg", "contest6.jpg", "contest7.jpg", "contest8.jpg", "contest9.jpg", "contest10.jpg", "contest11.jpg"],
+    "images": ["contest1.jpg", "contest2.jpg", "contest3.jpg", "contest4.jpg", "contest6.jpg", "contest7.jpg", "contest8.jpg", "contest9.jpg", "contest10.jpg", "contest11.jpg"],
     "icon": "bi-fire",
     "iconColor": "red", 
     "description": ""
