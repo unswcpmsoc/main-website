@@ -246,7 +246,7 @@ function loadingProgress() {
 
   document.getElementById("loading-bar").innerHTML = `
     <div class="progress">
-      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="17" aria-valuemin="0" aria-valuemax="100" style="width: 10%"></div>
+      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="23" aria-valuemin="0" aria-valuemax="100" style="width: 10%"></div>
     </div><br>
   `;
 }
