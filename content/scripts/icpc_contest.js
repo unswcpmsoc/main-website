@@ -226,6 +226,14 @@ const liveObject = [
     "icon": "bi-book",
     "iconColor": "", 
     "description": `Fun fact: Problem B is named "Begrudging Friendship 2" suggesting there is a part 1. In the Divisionals held a few months ago, we learned about Kylie and Leonard's friendship in the problem "Begrudging Frinedship". In that problem, they went to buy drinks with Kyle choosing the drinks such that the level of pettiness (defined in the problem) is maximised. In today's contest, it's Leonard's turn to choose meals for dinner, such that his pettiness value is maximised. Whilst both problems have a similar flavour text and story, they are still different problems.`
+  }, {
+    "hour": "4",
+    "min": "00", 
+    "header": "Final Hour",
+    "images": [],
+    "icon": "bi-hourglass-split",
+    "iconColor": "", 
+    "description": "It's now the final hour of the contest and the scoreboards have frozen and our volunteers have stopped running (walking) balloons to the teams. If you've never been to an ICPC contest before, teams are given a balloon for each problem they solve, with different coloured balloons for different problems. The scoreboards are frozen during the last hour to create some more suspense. The solves and changes in ranking within the last hour will be revealed during the closing ceremony."
   }
 ]
 
