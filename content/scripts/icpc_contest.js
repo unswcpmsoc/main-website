@@ -99,7 +99,16 @@ const liveObject = [
     "iconColor": "", 
     "description": `<em>Hell Hunt</em> has made yet another solve, for a total of 4 solves! They are leading the scoreboard right now, with the next four teams having solved two problems.<br><br>Problem I has now been solved by 6 out of the 10 teams. Hell Hunt, who is currently first placed, have still yet to solve it.`
   },
-  
+  {
+    "hour": "0",
+    "min": "45", 
+    "header": "45 Minutes Into the Contest!!!",
+    "images": [],
+    "icon": "bi-clock",
+    "iconColor": "", 
+    "description": `<em>Yakult on Tap</em> (Western Australia) have made their first solve which pushed them from 10th to 9th, surpassing <em>Myles</em> and <em>noobs</em> (Adelaide). Now Myles and noobs have actually made their first solve before Yakult on Tap, so you might be wondering why a team that has solved one problem later on in the contest is beating another team that also has one solve. This is because ICPC ranks teams not just on number of solves and time, but also adds on a time penalty for incorrect submissions. Hence, teams must rigorously test their code and be confident that their solutions are correct before submitting if they do not want to be penalised.<br><br>
+    Both problem B and I have been solved by 9 out of 10 teams. <em>Hell Hunt</em> is still leading the scoreboard with 5 solves, followed by <em>Nunchuck Crunchers</em>, <em>Arts Students</em> and <em>AnIsDa</em> with three solves each. <em>AnIsDa's</em> solves in the past 5 minutes have brought their rank up quite a bit.`
+  },
   
 ]
 
@@ -194,11 +203,13 @@ function loadingStart() {
 function loadingProgress() {
 
   let progess = Math.abs(contestEndTime.getTime() - Date.now()) / (contestEndTime.getTime() - contestStartTime.getTime());
-  // progess *= 100;
+  progess *= 100;
+  progess = Math.floor(progess);
+  console.log(progess);
 
   document.getElementById("loading-bar").innerHTML = `
     <div class="progress">
-      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="${progess}" aria-valuemin="0" aria-valuemax="100" style="width: ${progess}%"></div>
+      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%"></div>
     </div><br>
   `;
 }
