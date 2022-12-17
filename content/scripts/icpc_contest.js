@@ -253,6 +253,15 @@ const liveObject = [
     "icon": "bi-fire",
     "iconColor": "red", 
     "description": ""
+  },  
+  {
+    "hour": "4",
+    "min": "10", 
+    "header": "Final Hour!!!",
+    "images": ["contestFull1.jpg", "contestFull2.jpg", "contestFull3.jpg"],
+    "icon": "bi-fire",
+    "iconColor": "red", 
+    "description": ""
   }, 
 ]
 
