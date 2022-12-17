@@ -194,11 +194,13 @@ function loadingStart() {
 function loadingProgress() {
 
   let progess = Math.abs(contestEndTime.getTime() - Date.now()) / (contestEndTime.getTime() - contestStartTime.getTime());
-  // progess *= 100;
+  progess *= 100;
+  progess = Math.floor(progess);
+  console.log(progess);
 
   document.getElementById("loading-bar").innerHTML = `
     <div class="progress">
-      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="${progess}" aria-valuemin="0" aria-valuemax="100" style="width: ${progess}%"></div>
+      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%"></div>
     </div><br>
   `;
 }
