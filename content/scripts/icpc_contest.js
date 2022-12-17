@@ -152,6 +152,7 @@ function loadingStart() {
  * html for the progess
  */
 function loadingProgress() {
+
   let progess = Math.abs(contestEndTime.getTime() - Date.now()) / (contestEndTime.getTime() - contestStartTime.getTime());
   progess *= 100;
 
