@@ -226,7 +226,8 @@ const liveObject = [
     "icon": "bi-book",
     "iconColor": "", 
     "description": `Fun fact: Problem B is named "Begrudging Friendship 2" suggesting there is a part 1. In the Divisionals held a few months ago, we learned about Kylie and Leonard's friendship in the problem "Begrudging Frinedship". In that problem, they went to buy drinks with Kyle choosing the drinks such that the level of pettiness (defined in the problem) is maximised. In today's contest, it's Leonard's turn to choose meals for dinner, such that his pettiness value is maximised. Whilst both problems have a similar flavour text and story, they are still different problems.`
-  }, {
+  }, 
+  {
     "hour": "3",
     "min": "59", 
     "header": "Arts Student Have a Chance of Coming First",
@@ -234,7 +235,8 @@ const liveObject = [
     "icon": "bi-fire",
     "iconColor": "", 
     "description": `Arts Students have solved their 9th problem, moving them up to second place. This is their first solve in over 100 minutes. This pushes AnIsDa down to third place, increasing the gap between Hell Hunt and AnIsDa. Remember both teams are from UNSW and only one of them can go to the World Finals. If AnIsDa is to make the World Finals, they have to solve at least 3 more problems in the remaining hour.`
-  }, {
+  }, 
+  {
     "hour": "4",
     "min": "00", 
     "header": "Final Hour",
@@ -242,7 +244,16 @@ const liveObject = [
     "icon": "bi-hourglass-split",
     "iconColor": "", 
     "description": "It's now the final hour of the contest and the scoreboards have frozen and our volunteers have stopped running (walking) balloons to the teams. If you've never been to an ICPC contest before, teams are given a balloon for each problem they solve, with different coloured balloons for different problems. The scoreboards are frozen during the last hour to create some more suspense. The solves and changes in ranking within the last hour will be revealed during the closing ceremony."
-  }
+  }, 
+  {
+    "hour": "4",
+    "min": "10", 
+    "header": "Final Hour!!!",
+    "images": ["contest1.jpg", "contest2.jpg", "contest3.jpg", "contest4.jpg", "contest5.jpg", "contest6.jpg", "contest7.jpg", "contest8.jpg", "contest9.jpg", "contest10.jpg", "contest11.jpg"],
+    "icon": "bi-fire",
+    "iconColor": "red", 
+    "description": ""
+  }, 
 ]
 
 const contestStartTime = new Date('2022-12-17T12:00:00')
