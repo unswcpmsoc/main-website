@@ -209,7 +209,8 @@ const liveObject = [
     "icon": "bi-fire",
     "iconColor": "", 
     "description": ``
-  },{
+  },
+  {
     "hour": "3",
     "min": "08", 
     "header": "More Mirror Contests Teams",
@@ -217,6 +218,14 @@ const liveObject = [
     "icon": "bi-fire",
     "iconColor": "", 
     "description": ``
+  }, {
+    "hour": "3",
+    "min": "23", 
+    "header": "Fun fact of question B",
+    "images": ["questionB.png"],
+    "icon": "bi-story",
+    "iconColor": "", 
+    "description": `Fun fact: Problem B is named "Begrudging Friendship 2" suggesting there is a part 1. In the Divisionals held a few months ago, we learned about Kylie and Leonard's friendship in the problem "Begrudging Frinedship". In that problem, they went to buy drinks with Kyle choosing the drinks such that the level of pettiness (defined in the problem) is maximised. In today's contest, it's Leonard's turn to choose meals for dinner, such that his pettiness value is maximised. Whilst both problems have a similar flavour text and story, they are still different problems.`
   }
 ]
 
