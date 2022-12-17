@@ -126,6 +126,16 @@ const liveObject = [
     "icon": "bi-question-circle",
     "iconColor": "", 
     "description": ``
+  },
+  {
+    "hour": "1",
+    "min": "58", 
+    "header": "Problem I",
+    "images": [],
+    "icon": "bi-question-circle",
+    "iconColor": "", 
+    "description": `
+    Problem I has now been solved by all teams! This surpasses problem B (with 9 out of 10 solves). This difference didn't stay for long, with a solve of problem B by Yakult on Tap. Problem B has now been solved by all teams as well. The time difference between these two problems is only 1 minute. Problem I was solved by all teams in 54 minutes, and problem B in 55 minutes.`
   }
 ]
 
