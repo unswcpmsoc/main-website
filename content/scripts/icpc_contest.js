@@ -51,8 +51,15 @@ const reference = [
 ]
 
 const liveObject = [
-
-  
+  {
+    "hour": "0",
+    "min": "00", 
+    "header": "Contest Started!!!",
+    "images": [],
+    "icon": "bi-alarm",
+    "iconColor": "", 
+    "description": "It is now 12:00 and the contest has officially started! The first few minutes will mainly be a test of how fast the teams can read and type, and the first solve will come shortly."
+  }
 ]
 
 const contestStartTime = new Date('2022-12-17T12:00:00')
@@ -146,7 +153,7 @@ function loadingStart() {
 function loadingProgress() {
 
   let progess = Math.abs(contestEndTime.getTime() - Date.now()) / (contestEndTime.getTime() - contestStartTime.getTime());
-  progess *= 100;
+  // progess *= 100;
 
   document.getElementById("loading-bar").innerHTML = `
     <div class="progress">
