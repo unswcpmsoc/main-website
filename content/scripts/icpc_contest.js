@@ -202,10 +202,18 @@ const liveObject = [
     "description": `We are now half way through and Hell Hunt have solved another problem. They have three more problems to solve to get a full solve.`
   },
   {
-    "hour": "2",
-    "min": "38", 
+    "hour": "3",
+    "min": "00", 
     "header": "Mirror Contests Teams",
     "images": ["mirrorP1.jpg", "mirrorP2.jpg", "mirrorP3.jpg", "mirrorP4.jpg", "mirrorP5.jpg", "mirrorP6.jpg", "mirrorP7.jpg", "mirrorP8.jpg", "mirrorP9.jpg", "mirrorP10.jpg", "mirrorP11", "mirrorP12.jpg", "mirrorP13.jpg", "mirrorP14.jpg", "mirrorP15.jpg"],
+    "icon": "bi-fire",
+    "iconColor": "", 
+    "description": ``
+  },{
+    "hour": "3",
+    "min": "08", 
+    "header": "More Mirror Contests Teams",
+    "images": ["mirrorP16.jpg"],
     "icon": "bi-fire",
     "iconColor": "", 
     "description": ``
