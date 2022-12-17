@@ -136,6 +136,16 @@ const liveObject = [
     "iconColor": "", 
     "description": `
     Problem I has now been solved by all teams! This surpasses problem B (with 9 out of 10 solves). This difference didn't stay for long, with a solve of problem B by Yakult on Tap. Problem B has now been solved by all teams as well. The time difference between these two problems is only 1 minute. Problem I was solved by all teams in 54 minutes, and problem B in 55 minutes.`
+  },
+  {
+    "hour": "1",
+    "min": "06", 
+    "header": "AnIsDa on fire!!!!",
+    "images": ["balloonSecondPost.jpg"],
+    "icon": "bi-fire",
+    "iconColor": "", 
+    "description": `
+    <em>AnIsDa</em> have risen yet again to second place with their latest solve of problem E at 58 minutes. They were also the first team to solve problem G at 60 minutes. The top two teams are now <em>Hell Hunt</em> (who have maintained the top spot throughout the first hour) and <em>AnIsDa</em>. Both teams are from UNSW. It will be a tight competition between these two teams because they are fighting for a spot at the World Finals. These spots go to the top two teams, but they cannot be from the same university! So at most one of those two teams can go, even if they both place in the top two.`
   }
 ]
 
@@ -236,7 +246,7 @@ function loadingProgress() {
 
   document.getElementById("loading-bar").innerHTML = `
     <div class="progress">
-      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="17" aria-valuemin="0" aria-valuemax="100" style="width: 10%"></div>
+      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="23" aria-valuemin="0" aria-valuemax="100" style="width: 10%"></div>
     </div><br>
   `;
 }
