@@ -129,7 +129,7 @@ const liveObject = [
   },
   {
     "hour": "1",
-    "min": "58", 
+    "min": "00", 
     "header": "Problem I",
     "images": [],
     "icon": "bi-question-circle",
