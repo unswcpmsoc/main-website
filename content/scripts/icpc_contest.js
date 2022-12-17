@@ -59,6 +59,15 @@ const liveObject = [
     "icon": "bi-alarm",
     "iconColor": "", 
     "description": "It is now 12:00 and the contest has officially started! The first few minutes will mainly be a test of how fast the teams can read and type, and the first solve will come shortly."
+  },
+  {
+    "hour": "0",
+    "min": "06", 
+    "header": "First Solve!!!",
+    "images": [],
+    "icon": "bi-balloon",
+    "iconColor": "", 
+    "description": "We have our first solve! Congratulations Hell Hunt from UNSW for solving problem A: A Menace 2 $ociety. They managed to solve it on their first go in only 6 minutes.."
   }
 ]
 
