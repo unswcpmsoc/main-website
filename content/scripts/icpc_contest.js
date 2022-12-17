@@ -149,6 +149,15 @@ const liveObject = [
   },
   {
     "hour": "1",
+    "min": "12", 
+    "header": "Commentary",
+    "images": [],
+    "icon": "bi-question-circle",
+    "iconColor": "", 
+    "description": `It seems like problem C: Cakes and Ogres is the next easiest with 6 solves out of the 10 teams.`
+  },
+  {
+    "hour": "1",
     "min": "22", 
     "header": "Myles and noobs have made a comeback, rising from last place to fifth with their solve of problem C at 72 minutes.",
     "images": ["balloonC.jpg"],
@@ -164,6 +173,33 @@ const liveObject = [
     "icon": "bi-bell",
     "iconColor": "", 
     "description": ``
+  },
+  {
+    "hour": "2",
+    "min": "00", 
+    "header": "Commentary",
+    "images": [],
+    "icon": "bi-clock",
+    "iconColor": "", 
+    "description": `We are now 2 hours into the 5 hour contest. The past 30 minutes have been a lot slower with only 7 solves. Three of these were for problem L: Land Tax, two for problem E and one solve for problems C and G.`
+  },
+  {
+    "hour": "2",
+    "min": "22", 
+    "header": "Commentary",
+    "images": [],
+    "icon": "bi-question-circle",
+    "iconColor": "", 
+    "description": `It's almost half way into the contest. <em>AnIsDa</em> and <em>Arts Students</em> have caught up in problems solved (but their ranks remain the same, separated by time) and the top three teams each have eight problems solved.`
+  },
+  {
+    "hour": "2",
+    "min": "30", 
+    "header": "Commentary",
+    "images": [],
+    "icon": "bi-question-circle",
+    "iconColor": "", 
+    "description": `We are now half way through and Hell Hunt have solved another problem. They have three more problems to solve to get a full solve.`
   }
 ]
 
