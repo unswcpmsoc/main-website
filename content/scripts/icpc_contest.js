@@ -104,7 +104,7 @@ const liveObject = [
     "min": "45", 
     "header": "45 Minutes Into the Contest!!!",
     "images": [],
-    "icon": "bi-flag",
+    "icon": "bi-clock",
     "iconColor": "", 
     "description": `<em>Yakult on Tap</em> (Western Australia) have made their first solve which pushed them from 10th to 9th, surpassing <em>Myles</em> and <em>noobs</em> (Adelaide). Now Myles and noobs have actually made their first solve before Yakult on Tap, so you might be wondering why a team that has solved one problem later on in the contest is beating another team that also has one solve. This is because ICPC ranks teams not just on number of solves and time, but also adds on a time penalty for incorrect submissions. Hence, teams must rigorously test their code and be confident that their solutions are correct before submitting if they do not want to be penalised.<br><br>
     Both problem B and I have been solved by 9 out of 10 teams. <em>Hell Hunt</em> is still leading the scoreboard with 5 solves, followed by <em>Nunchuck Crunchers</em>, <em>Arts Students</em> and <em>AnIsDa</em> with three solves each. <em>AnIsDa's</em> solves in the past 5 minutes have brought their rank up quite a bit.`
