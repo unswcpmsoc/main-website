@@ -51,7 +51,16 @@ const reference = [
 ]
 
 const liveObject = [
-
+  {
+    "hour": 3,
+    "min": "00", 
+    "header": "Times Up!!!",
+    "images": [],
+    "icon": "bi-alarm",
+    "iconColor": "", 
+    "video": '<iframe width="560" height="315" src="https://www.youtube.com/embed/ijqi2TuElP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    "description": "Contest has ended, winner is from University Of Mars!!!"
+  }
 ]
 
 const contestStartTime = new Date('2022-12-17T12:00:00')
@@ -98,6 +107,11 @@ function loadSingleEvent(event) {
     return imgStr;
   }
 
+  function loadVideo(event) {
+    if (event.video === undefined) return "";
+    return event.video;
+  }
+
   function loadDescription(event) {
     return `<p style="margin-left: 4.8em;">${event.description}</p><br>`;
   }
@@ -107,6 +121,7 @@ function loadSingleEvent(event) {
   var htmlStr = loadEventStart(event);
   htmlStr += loadTimeTitle(event);
   htmlStr += loadImage(event);
+  htmlStr += loadVideo(event);
   htmlStr += loadDescription(event);
   htmlStr += loadEventEnd(event);
 
@@ -137,7 +152,9 @@ function loadingStart() {
  * html for the progess
  */
 function loadingProgress() {
-  let progess = (contestEndTime.getTime() - Date.now()) / (1000 * 60 * 60);
+  let progess = Math.abs(contestEndTime.getTime() - Date.now()) / (contestEndTime.getTime() - contestStartTime.getTime());
+  progess *= 100;
+
   document.getElementById("loading-bar").innerHTML = `
     <div class="progress">
       <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="${progess}" aria-valuemin="0" aria-valuemax="100" style="width: ${progess}%"></div>
