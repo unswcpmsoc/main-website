@@ -79,7 +79,8 @@ const liveObject = [
     "description": `We have a few more solves! Team <em>cflat</em> from The University of Canterbury has made their first solve - problem B: Begrudging Friendship 2. They are the first team to solve this problem, 9 minutes into the contest. A minute later, it was also solved by Hell Hunt (UNSW). UNSW Magenta and <em>e</em> (USyd) also solved it, both on their second try. <br><br>
     
     Calloc (Auckland) made their first solve on problem I: Iguana Honeymoon. This may look like an unusual choice, but the problems are not in order of difficulty. A few minutes later, Arts Students (Melbourne) and cflat (Canterbury) have also solved it.`
-  },/*
+  },
+  
   {
     "hour": "0",
     "min": "20", 
@@ -87,8 +88,18 @@ const liveObject = [
     "images": ["snedingOutBalloon1.jpg"],
     "icon": "bi-blockquote-left",
     "iconColor": "", 
-    "description": `20 minutes into the contest and 8 out of 10 teams have solved problem B. This problem is by far the most solved so far. The next most-solved problem is problem I with 4 solves by cflat (Canterbury), Arts Students (Melbourne), Nunchuck Crunchers (Sydney) and Calloc (Auckland). Surprisingly, Hell Hunt who are leading the scoreboard at this time have not submitted anything for problem I. It seems that they are solving the problems in order. They have solved 3 problems: A, then B, then C. They are the only team at this point to have solved three problems.<br><br>The next most-solved problem is problem I with 4 solves by cflat (Canterbury), Arts Students (Melbourne), Nunchuck Crunchers (Sydney) and Calloc (Auckland). Surprisingly, Hell Hunt who are leading the scoreboard at this time have not submitted anything for problem I. It seems that they are solving the problems in order. They have solved 3 problems: A, then B, then C. They are the only team at this point to have solved three problems.`
-  },*/
+    "description": `20 minutes into the contest and 8 out of 10 teams have solved problem B. This problem is by far the most solved so far.The next most-solved problem is problem I with 4 solves by cflat (Canterbury), Arts Students (Melbourne), Nunchuck Crunchers (Sydney) and Calloc (Auckland). Surprisingly, Hell Hunt who are leading the scoreboard at this time have not submitted anything for problem I. It seems that they are solving the problems in order. They have solved 3 problems: A, then B, then C. They are the only team at this point to have solved three problems. <br><br>The next most-solved problem is problem I with 4 solves by cflat (Canterbury), Arts Students (Melbourne), Nunchuck Crunchers (Sydney) and Calloc (Auckland). Surprisingly, Hell Hunt who are leading the scoreboard at this time have not submitted anything for problem I. It seems that they are solving the problems in order. They have solved 3 problems: A, then B, then C. They are the only team at this point to have solved three problems.`
+  },
+  {
+    "hour": "0",
+    "min": "32", 
+    "header": "Hell Hunt in the lead!!!",
+    "images": [],
+    "icon": "bi-flag",
+    "iconColor": "", 
+    "description": `Hell Hunt has made yet another solve, for a total of 4 solves! They are leading the scoreboard right now, with the next four teams having solved two problems.<br><br>Problem I has now been solved by 6 out of the 10 teams. Hell Hunt, who is currently first placed, have still yet to solve it.`
+  },
+  
   
 ]
 
