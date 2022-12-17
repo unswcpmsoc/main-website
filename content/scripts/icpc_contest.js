@@ -262,6 +262,18 @@ const liveObject = [
     "icon": "bi-fire",
     "iconColor": "red", 
     "description": ""
+  },   
+  {
+    "hour": "4",
+    "min": "50", 
+    "header": "Top 3 Teams At the Last 10 Minutes!!!",
+    "images": ["top31.jpg", "top33.jpg", "top32.jpg"],
+    "icon": "bi-fire",
+    "iconColor": "red", 
+    "description": `
+    1. Hell Hunter<br>
+    2. Arts Students<br>
+    3. AnIsDa`
   }, 
 ]
 
