@@ -155,6 +155,15 @@ const liveObject = [
     "icon": "bi-bell",
     "iconColor": "", 
     "description": `There is a difference of one solve between the top 5 teams: Rank 1 (<em>Hell Hunt</em>) has 7 solves, rank 2 (<em>AnIsDa</em>) has 6 solves, rank 3 (<em>Arts Students</em>) has 5 solves, rank 4 (<em>Nunchuck Crunchers</em>) has 4 solves and e has 3 solves.`
+  },
+  {
+    "hour": "1",
+    "min": "58", 
+    "header": "Lunches Arrives for Mirror Competition",
+    "images": ["mirror.jpg","mirror1.jpg","mirror2.jpg","mirror3.jpg","mirror4.jpg"],
+    "icon": "bi-bell",
+    "iconColor": "", 
+    "description": ``
   }
 ]
 
@@ -255,7 +264,7 @@ function loadingProgress() {
 
   document.getElementById("loading-bar").innerHTML = `
     <div class="progress">
-      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 30%"></div>
+      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 40%"></div>
     </div><br>
   `;
 }
