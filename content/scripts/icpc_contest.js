@@ -76,7 +76,9 @@ const liveObject = [
     "images": [],
     "icon": "bi-alarm",
     "iconColor": "", 
-    "description": "We have a few more solves! Team <em>cflat</em> from The University of Canterbury has made their first solve - problem B: Begrudging Friendship 2. They are the first team to solve this problem, 9 minutes into the contest. A minute later, it was also solved by Hell Hunt (UNSW). UNSW Magenta and <em>e</em> (USyd) also solved it, both on their second try."
+    "description": `We have a few more solves! Team <em>cflat</em> from The University of Canterbury has made their first solve - problem B: Begrudging Friendship 2. They are the first team to solve this problem, 9 minutes into the contest. A minute later, it was also solved by Hell Hunt (UNSW). UNSW Magenta and <em>e</em> (USyd) also solved it, both on their second try. <br><br>
+    
+    Calloc (Auckland) made their first solve on problem I: Iguana Honeymoon. This may look like an unusual choice, but the problems are not in order of difficulty. A few minutes later, Arts Students (Melbourne) and cflat (Canterbury) have also solved it.`
   },
 ]
 
