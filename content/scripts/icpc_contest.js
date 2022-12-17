@@ -109,7 +109,24 @@ const liveObject = [
     "description": `<em>Yakult on Tap</em> (Western Australia) have made their first solve which pushed them from 10th to 9th, surpassing <em>Myles</em> and <em>noobs</em> (Adelaide). Now Myles and noobs have actually made their first solve before Yakult on Tap, so you might be wondering why a team that has solved one problem later on in the contest is beating another team that also has one solve. This is because ICPC ranks teams not just on number of solves and time, but also adds on a time penalty for incorrect submissions. Hence, teams must rigorously test their code and be confident that their solutions are correct before submitting if they do not want to be penalised.<br><br>
     Both problem B and I have been solved by 9 out of 10 teams. <em>Hell Hunt</em> is still leading the scoreboard with 5 solves, followed by <em>Nunchuck Crunchers</em>, <em>Arts Students</em> and <em>AnIsDa</em> with three solves each. <em>AnIsDa's</em> solves in the past 5 minutes have brought their rank up quite a bit.`
   },
-  
+  {
+    "hour": "0",
+    "min": "52", 
+    "header": "Problem B",
+    "images": ["contestant1.jpg"],
+    "icon": "bi-question-circle",
+    "iconColor": "", 
+    "description": `Problem B is a simple problem based on sorting. This problem is about two friends who are trying to allocate food, where each piece of food is given a tastiness value. The allocation needs to be done such that the difference in tastiness values is maximised. This can be solved by sorting the list of tastiness values and allocating the food greedily.`
+  },
+  {
+    "hour": "0",
+    "min": "58", 
+    "header": "Contestant work hard on problems!!!",
+    "images": ["contestant2.jpg","contestant3.jpg", "contestant4.jpg", "contestant5.jpg", "contestant6.jpg"],
+    "icon": "bi-question-circle",
+    "iconColor": "", 
+    "description": ``
+  }
 ]
 
 const contestStartTime = new Date('2022-12-17T12:00:00')
@@ -209,7 +226,7 @@ function loadingProgress() {
 
   document.getElementById("loading-bar").innerHTML = `
     <div class="progress">
-      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%"></div>
+      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="13" aria-valuemin="0" aria-valuemax="100" style="width: 10%"></div>
     </div><br>
   `;
 }
