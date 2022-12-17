@@ -151,10 +151,10 @@ const liveObject = [
     "hour": "1",
     "min": "22", 
     "header": "Myles and noobs have made a comeback, rising from last place to fifth with their solve of problem C at 72 minutes.",
-    "images": [],
+    "images": ["balloonC.jpg"],
     "icon": "bi-bell",
     "iconColor": "", 
-    "description": ``
+    "description": `There is a difference of one solve between the top 5 teams: Rank 1 (<em>Hell Hunt</em>) has 7 solves, rank 2 (<em>AnIsDa</em>) has 6 solves, rank 3 (<em>Arts Students</em>) has 5 solves, rank 4 (<em>Nunchuck Crunchers</em>) has 4 solves and e has 3 solves.`
   }
 ]
 
