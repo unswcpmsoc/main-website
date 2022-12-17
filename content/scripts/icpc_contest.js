@@ -52,9 +52,9 @@ const reference = [
 
 const liveObject = [
   {
-    "hour": 3,
-    "min": "00", 
-    "header": "Times Up!!!",
+    "hour": "0",
+    "min": "-30", 
+    "header": "Cou!!!",
     "images": [],
     "icon": "bi-alarm",
     "iconColor": "", 
