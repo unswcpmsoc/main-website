@@ -64,11 +64,20 @@ const liveObject = [
     "hour": "0",
     "min": "06", 
     "header": "First Solve!!!",
-    "images": [],
+    "images": ["balloonFirstPost.jpg"],
     "icon": "bi-balloon",
     "iconColor": "", 
     "description": "We have our first solve! Congratulations Hell Hunt from UNSW for solving problem A: A Menace 2 $ociety. They managed to solve it on their first go in only 6 minutes.."
-  }
+  },
+  {
+    "hour": "0",
+    "min": "17", 
+    "header": "17 Minutes Passed!!!",
+    "images": [],
+    "icon": "bi-alarm",
+    "iconColor": "", 
+    "description": "We have a few more solves! Team <em>cflat</em> from The University of Canterbury has made their first solve - problem B: Begrudging Friendship 2. They are the first team to solve this problem, 9 minutes into the contest. A minute later, it was also solved by Hell Hunt (UNSW). UNSW Magenta and <em>e</em> (USyd) also solved it, both on their second try."
+  },
 ]
 
 const contestStartTime = new Date('2022-12-17T12:00:00')
