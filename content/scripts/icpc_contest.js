@@ -160,7 +160,7 @@ const liveObject = [
     "hour": "1",
     "min": "58", 
     "header": "Lunches Arrives for Mirror Competition",
-    "images": ["mirror.jpg","mirror1.jpg","mirror2.jpg","mirror3.jpg"],
+    "images": ["mirror.jpg","mirror1.jpg","mirror2.jpg","mirror3.jpg","mirror4.jpg"],
     "icon": "bi-bell",
     "iconColor": "", 
     "description": ``
