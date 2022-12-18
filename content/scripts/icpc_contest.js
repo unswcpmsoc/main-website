@@ -1,3 +1,4 @@
+<script>
 const reference = [
   {
     "hour": 0,
@@ -273,13 +274,13 @@ const liveObject = [
     <br>
     1. Hell Hunt<br>
     2. Arts Students<br>
-    3. AnIsDa`
+    3. AnIsDa
     <br>
     During the last hour, all these teams have made additional submissions so the top three spots could still go either way. Hell Hunt have made two more submissions to their remaining two problems. If they manage to solve these two problems, they would have solved the full set of problems. Arts Students have also made submissions to all the remaining problems, so either Hell Hunt or Arts Students have the chance of taking the top spot if these submissions are successful.
     <br><br>
     AnIsDa have two unsolved problems, and made submissions to problem H but not F. For them to qualify for the World Finals, this submission needs to be successful whilst Hell Hunt's two remaining submissions needs to be unsuccessful.<br><br>
 
-    Either way, Arts Students are almost certain to make the World Finals. The only way this could change is if the next ranked team solves over four problems in the last few minutes. The remaining World Finals spot could still go to either the two UNSW teams.
+    Either way, Arts Students are almost certain to make the World Finals. The only way this could change is if the next ranked team solves over four problems in the last few minutes. The remaining World Finals spot could still go to either the two UNSW teams.`
   }, 
   {
     "hour": "5",
@@ -405,3 +406,4 @@ if (liveObject.length == 0) {
     loadSingleEvent(event);
   }
 }
+</script>
