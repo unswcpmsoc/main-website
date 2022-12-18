@@ -67,7 +67,7 @@ const liveObject = [
     "images": ["balloonFirstPost.jpg"],
     "icon": "bi-balloon",
     "iconColor": "", 
-    "description": "We have our first solve! Congratulations Hell Hunt from UNSW for solving problem A: A Menace 2 $ociety. They managed to solve it on their first go in only 6 minutes.."
+    "description": "We have our first solve! Congratulations <em>Hell Hunt</em> from UNSW for solving problem A: A Menace 2 $ociety. They managed to solve it on their first go in only 6 minutes. Hell Hunt were our divisional champions, taking the first place, so they are no strangers to solving problems quickly. As per tradition, teams receive a balloon for each problem solved with different colours representing each problem. Additionally, a special balloon is given to the team that solves the first problem overall in the contest. There is only one such coloured balloon (rose gold) given throughout the entire contest. Congratulations Hell Hunt!"
   },
   {
     "hour": "0",
@@ -76,11 +76,14 @@ const liveObject = [
     "images": [],
     "icon": "bi-blockquote-left",
     "iconColor": "", 
-    "description": `We have a few more solves! Team <em>cflat</em> from The University of Canterbury has made their first solve - problem B: Begrudging Friendship 2. They are the first team to solve this problem, 9 minutes into the contest. A minute later, it was also solved by Hell Hunt (UNSW). UNSW Magenta and <em>e</em> (USyd) also solved it, both on their second try. <br><br>
-    
-    Calloc (Auckland) made their first solve on problem I: Iguana Honeymoon. This may look like an unusual choice, but the problems are not in order of difficulty. A few minutes later, Arts Students (Melbourne) and cflat (Canterbury) have also solved it.`
+    "description": `We have a few more solves! Team <em>cflat</em> from The University of Canterbury has made their first solve - problem B: Begrudging Friendship 2. They are the first team to solve this problem, 9 minutes into the contest. A minute later, it was also solved by <em>Hell Hunt</em> (UNSW). UNSW Magenta and <em>e</em> (USyd) also solved it, both on their second try.
+    <br><br>
+    Calloc (Auckland) made their first solve on problem I: Iguana Honeymoon. This may look like an unusual choice, but the problems are not in order of difficulty. A few minutes later, <em>Arts Students</em> (Melbourne) and <em>cflat</em> (Canterbury) have also solved it.
+    <br><br>
+    We asked <em>cflat</em> earlier about their team name, and they said it's a pun on the programming language C sharp (interview attached).
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1urDkNQVZiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    `
   },
-  
   {
     "hour": "0",
     "min": "20", 
@@ -106,17 +109,8 @@ const liveObject = [
     "images": [],
     "icon": "bi-clock",
     "iconColor": "", 
-    "description": `<em>Yakult on Tap</em> (Western Australia) have made their first solve which pushed them from 10th to 9th, surpassing <em>Myles</em> and <em>noobs</em> (Adelaide). Now Myles and noobs have actually made their first solve before Yakult on Tap, so you might be wondering why a team that has solved one problem later on in the contest is beating another team that also has one solve. This is because ICPC ranks teams not just on number of solves and time, but also adds on a time penalty for incorrect submissions. Hence, teams must rigorously test their code and be confident that their solutions are correct before submitting if they do not want to be penalised.<br><br>
+    "description": `<em>Yakult on Tap</em> (Western Australia) have made their first solve which pushed them from 10th to 9th, surpassing <em>Myles and noobs</em> (Adelaide). Now <em>Myles and noobs</em> have actually made their first solve before <em>Yakult on Tap</em>, so you might be wondering why a team that has solved one problem later on in the contest is beating another team that also has one solve? This is becausethe ICPC ranks teams not just on number of solves and time, but also adds on a time penalty for incorrect submissions. Hence, teams must rigorously test their code and be confident that their solutions are correct before submitting if they do not want to be penalised.<br><br>
     Both problem B and I have been solved by 9 out of 10 teams. <em>Hell Hunt</em> is still leading the scoreboard with 5 solves, followed by <em>Nunchuck Crunchers</em>, <em>Arts Students</em> and <em>AnIsDa</em> with three solves each. <em>AnIsDa's</em> solves in the past 5 minutes have brought their rank up quite a bit.`
-  },
-  {
-    "hour": "0",
-    "min": "52", 
-    "header": "Problem B",
-    "images": ["contestant1.jpg"],
-    "icon": "bi-question-circle",
-    "iconColor": "", 
-    "description": `Problem B is a simple problem based on sorting. This problem is about two friends who are trying to allocate food, where each piece of food is given a tastiness value. The allocation needs to be done such that the difference in tastiness values is maximised. This can be solved by sorting the list of tastiness values and allocating the food greedily.`
   },
   {
     "hour": "0",
@@ -154,7 +148,7 @@ const liveObject = [
     "images": [],
     "icon": "bi-question-circle",
     "iconColor": "", 
-    "description": `It seems like problem C: Cakes and Ogres is the next easiest with 6 solves out of the 10 teams.`
+    "description": `It seems like problem C: Cakes and Ogres is the next easiest with 6 solves out of the 10 teams. Problem C may seem difficult but a look at the bounds suggests a simple brute-force of all the permutations of cakes could work.`
   },
   {
     "hour": "1",
@@ -172,7 +166,7 @@ const liveObject = [
     "images": ["mirror.jpg","mirror1.jpg","mirror2.jpg","mirror3.jpg","mirror4.jpg"],
     "icon": "bi-bell",
     "iconColor": "", 
-    "description": ``
+    "description": `Whilst our official contestants are competing on the ground floor, we are also running a mirror contest upstairs on level 3. The mirror contest contains the exact same problems and allows students who did not qualify for the regionals to still participate unofficially. `
   },
   {
     "hour": "2",
@@ -190,16 +184,20 @@ const liveObject = [
     "images": [],
     "icon": "bi-question-circle",
     "iconColor": "", 
-    "description": `It's almost half way into the contest. <em>AnIsDa</em> and <em>Arts Students</em> have caught up in problems solved (but their ranks remain the same, separated by time) and the top three teams each have eight problems solved.`
+    "description": `It's almost half way into the contest. <em>AnIsDa</em> and <em>Arts Students</em> have caught up to <em>Hell Hunt</em> in the number of problems solved, although their ranks remain the same (first, second and third respectively). This is because teams with the same number of solves are ranked by time (and time penalties). The top three teams have now solved eight problems each.`
   },
   {
     "hour": "2",
     "min": "30", 
-    "header": "Commentary",
+    "header": "Half way through",
     "images": [],
     "icon": "bi-question-circle",
     "iconColor": "", 
-    "description": `We are now half way through and Hell Hunt have solved another problem. They have three more problems to solve to get a full solve.`
+    "description": `We are now half way through the contest and <em>Hell Hunt</em> have solved another problem. They have three more problems to solve to get a full solve. These last three problems are significantly harder, so we expect their pace will slow down a lot. Interestingly, one of the members of <em>Hell Hunt</em> is participating remotely, joining in their team members (and the inviligators) over a Zoom call.<br><br>
+    To preserve the integrity of the contest, the judges have removed the keyboard of Hell Hunt's onsite representatives. Teams are only allowed to use one keyboard and use one computer (so all coding and debugging must be done on the one machine) so teams have to be efficient with their time on the computer. To help with this, teams are able to print out their code by copying their code onto a USB provided by our volunteers. Our volunteers then run this print job for them. The teams can then debug their code on paper, freeing up the computer to be used by another team member.
+    <br><br>
+    Since <em>Hell Hunt</em> do not have this luxury of taking turns on the keyboards, their only strategy is for the onsite team members to communicate their ideas and strategies over to their remote team mate to implement and submit. This is extremely impressive in itself, not withstanding that they are coming first.
+    `
   },
   {
     "hour": "3",
@@ -225,7 +223,7 @@ const liveObject = [
     "images": ["questionB.png"],
     "icon": "bi-book",
     "iconColor": "", 
-    "description": `Fun fact: Problem B is named "Begrudging Friendship 2" suggesting there is a part 1. In the Divisionals held a few months ago, we learned about Kylie and Leonard's friendship in the problem "Begrudging Frinedship". In that problem, they went to buy drinks with Kyle choosing the drinks such that the level of pettiness (defined in the problem) is maximised. In today's contest, it's Leonard's turn to choose meals for dinner, such that his pettiness value is maximised. Whilst both problems have a similar flavour text and story, they are still different problems.`
+    "description": `Fun fact: Problem B is named "Begrudging Friendship 2" suggesting there is a part 1. In the Divisionals held a few months ago, we learned about Kylie and Leonard's friendship in the problem "Begrudging Frinedship" (question attached). In that problem, they went to buy drinks with Kyle choosing the drinks such that the level of pettiness (defined in the problem) is maximised. In today's contest, it's Leonard's turn to choose meals for dinner, such that his pettiness value is maximised. Whilst both problems have a similar flavour text and story, they are still different problems.`
   }, 
   {
     "hour": "3",
@@ -234,7 +232,7 @@ const liveObject = [
     "images": [],
     "icon": "bi-fire",
     "iconColor": "", 
-    "description": `Arts Students have solved their 9th problem, moving them up to second place. This is their first solve in over 100 minutes. This pushes AnIsDa down to third place, increasing the gap between Hell Hunt and AnIsDa. Remember both teams are from UNSW and only one of them can go to the World Finals. If AnIsDa is to make the World Finals, they have to solve at least 3 more problems in the remaining hour.`
+    "description": `<em>Arts Students</em> have solved their 9th problem, moving them up to second place. This is their first solve in over 100 minutes. This pushes </em>AnIsDa</em> down to third place, increasing the gap between <em>Hell Hunt</em> and <em>AnIsDa</em>. Remember both teams are from UNSW and only one of them can go to the World Finals. If <em>AnIsDa</em> is to make the World Finals, they have to solve at least 3 more problems in the remaining hour.`
   }, 
   {
     "hour": "4",
@@ -271,9 +269,28 @@ const liveObject = [
     "icon": "bi-fire",
     "iconColor": "red", 
     "description": `
-    1. Hell Hunter<br>
+    We are now in the last 10 minutes of the contest and we have some photos from the top three teams at the time of the scoreboard freezing. Recall that the scoreboard freezes during the final hour and any information about successful solves are hidden from other teams. Of course, a team will know if they have solved their own submission.
+    <br>
+    1. Hell Hunt<br>
     2. Arts Students<br>
     3. AnIsDa`
+    <br>
+    During the last hour, all these teams have made additional submissions so the top three spots could still go either way. Hell Hunt have made two more submissions to their remaining two problems. If they manage to solve these two problems, they would have solved the full set of problems. Arts Students have also made submissions to all the remaining problems, so either Hell Hunt or Arts Students have the chance of taking the top spot if these submissions are successful.
+    <br><br>
+    AnIsDa have two unsolved problems, and made submissions to problem H but not F. For them to qualify for the World Finals, this submission needs to be successful whilst Hell Hunt's two remaining submissions needs to be unsuccessful.<br><br>
+
+    Either way, Arts Students are almost certain to make the World Finals. The only way this could change is if the next ranked team solves over four problems in the last few minutes. The remaining World Finals spot could still go to either the two UNSW teams.
+  }, 
+  {
+    "hour": "5",
+    "min": "10", 
+    "header": "Public Editorials Released",
+    "images": [],
+    "icon": "bi-youtube",
+    "iconColor": "red", 
+    "description": `Our head judge, Max Ward, goes through all of today's problems. Videos are available at
+    <a href="https://www.youtube.com/playlist?list=PLRzSI_wBzwQv2AcNh8hJBJZupuyTgOtbj">https://www.youtube.com/playlist?list=PLRzSI_wBzwQv2AcNh8hJBJZupuyTgOtbj</a>
+    `
   }, 
 ]
 
@@ -346,7 +363,7 @@ function loadSingleEvent(event) {
 }
 
 /**
- * html for contest laoading animation
+ * html for contest loading animation
  */
 function loadingStart() {
   document.getElementById("loading-bar").innerHTML = `
@@ -388,4 +405,3 @@ if (liveObject.length == 0) {
     loadSingleEvent(event);
   }
 }
-
