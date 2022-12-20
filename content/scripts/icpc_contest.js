@@ -1,4 +1,4 @@
-<script>
+
 const reference = [
   {
     "hour": 0,
@@ -164,7 +164,7 @@ const liveObject = [
     "hour": "1",
     "min": "58", 
     "header": "Lunches Arrives for Mirror Competition",
-    "images": ["mirror.jpg","mirror1.jpg","mirror2.jpg","mirror3.jpg","mirror4.jpg"],
+    "images": ["mirror.jpg","mirror2.jpg","mirror3.jpg","mirror4.jpg"],
     "icon": "bi-bell",
     "iconColor": "", 
     "description": `Whilst our official contestants are competing on the ground floor, we are also running a mirror contest upstairs on level 3. The mirror contest contains the exact same problems and allows students who did not qualify for the regionals to still participate unofficially. `
@@ -204,7 +204,7 @@ const liveObject = [
     "hour": "3",
     "min": "00", 
     "header": "Mirror Contests Teams",
-    "images": ["mirrorP1.jpg", "mirrorP2.jpg", "mirrorP3.jpg", "mirrorP4.jpg", "mirrorP5.jpg", "mirrorP6.jpg", "mirrorP7.jpg", "mirrorP8.jpg", "mirrorP9.jpg", "mirrorP10.jpg", "mirrorP11", "mirrorP12.jpg", "mirrorP13.jpg", "mirrorP14.jpg", "mirrorP15.jpg"],
+    "images": ["mirrorP1.jpg", "mirrorP2.jpg", "mirrorP3.jpg", "mirrorP4.jpg", "mirrorP5.jpg", "mirrorP6.jpg", "mirrorP8.jpg", "mirrorP9.jpg", "mirrorP12.jpg", "mirrorP13.jpg", "mirrorP14.jpg", "mirrorP15.jpg"],
     "icon": "bi-fire",
     "iconColor": "", 
     "description": ``
@@ -248,7 +248,7 @@ const liveObject = [
     "hour": "4",
     "min": "10", 
     "header": "Final Hour!!!",
-    "images": ["contest1.jpg", "contest2.jpg", "contest3.jpg", "contest4.jpg", "contest6.jpg", "contest7.jpg", "contest8.jpg", "contest9.jpg", "contest10.jpg", "contest11.jpg"],
+    "images": ["contest1.jpg", "contest2.jpg", "contest3.jpg", "contest4.jpg", "contest6.jpg", "contest7.jpg", "contest9.jpg", "contest10.jpg", "contest11.jpg"],
     "icon": "bi-fire",
     "iconColor": "red", 
     "description": ""
@@ -392,7 +392,7 @@ function loadingProgress() {
 
   document.getElementById("loading-bar").innerHTML = `
     <div class="progress">
-      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 80%"></div>
+      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-label="Animated striped example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div>
     </div><br>
   `;
 }
@@ -406,4 +406,4 @@ if (liveObject.length == 0) {
     loadSingleEvent(event);
   }
 }
-</script>
+
