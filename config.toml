@@ -31,7 +31,7 @@ weight = 4
 identifier = "blog"
 name = "Blog"
 parent = "resources"
-url = "https://blog.unswcpmsoc.com/"
+url = "https://unswcpmsoc.blog/"
 weight = 4
 
 # Add workshops again to events
