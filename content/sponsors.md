@@ -11,7 +11,23 @@ no-title: true
   ol { list-style-type: lower-alpha !important; }
 </style>
 
-<h4 style="text-align: center">Principal Sponsors</h4>
+<style type="text/css">
+  .epic-heading {
+    text-align: center;
+    font-size: 2rem;
+    background: linear-gradient(to right, #4a8fe1, #4a8fe1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 10px;
+    border: 1.5px solid #4a8fe1;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 1rem;
+  }
+  ol { list-style-type: lower-alpha !important; }
+</style>
+
+<h4 style="text-align: center" class="epic-heading">Principal Sponsors</h4>
+<br>
 <div>
     <div style="display: flex; flex-direction: column;">
         <img src="/assets/citadel_securities_logo.png" style="height: 60%; width: 60%; min-width: 250px; margin: auto;"/>
@@ -22,7 +38,8 @@ no-title: true
     <div style="height: 2rem"></div>
 </div>
 
-<h4 style="text-align: center">Major Sponsors</h4>
+<h4 style="text-align: center" class="epic-heading">Major Sponsors</h4>
+<div style="height: 1rem"></div>
 <div>
     <div style="display: flex; flex-direction: column;">
         <img src="/assets/js_logo.png" style="height: 34%; width: 34%; min-width: 210px; margin: auto;"/>
@@ -43,7 +60,8 @@ no-title: true
     <div style="height: 2rem; font-size: 1rem;"></div>
 </div>
 
-<h4 style="text-align: center">Affiliate Sponsors</h4>
+<h4 style="text-align: center" class="epic-heading">Affiliate Sponsors</h4>
+<br>
 <div style="display: flex; justify-content: center;">
     <div>
         <img src="/assets/unsw_computing_logo.png" style="width: 50%; margin: auto;"/>
