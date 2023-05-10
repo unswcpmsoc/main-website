@@ -32,7 +32,7 @@ no-title: true
     </div>
     <div style="height: 2rem"></div>
     <div style="display: flex; flex-direction: column;">
-        <img src="/assets/optiver_logo.png" style="height: 30%; width: 30%; min-width: 200px; margin: auto;" />
+        <img src="/assets/optiver_logoo.png" style="height: 30%; width: 30%; min-width: 200px; margin: auto;" />
         <p style="margin-top: 1rem; margin-bottom: 1rem; font-size: 1rem;">
             Optiver is a tech-driven trading firm and leading global market maker. For over 35 years, Optiver has been improving financial markets around the world, making them more transparent and efficient for all participants. The firm looks for the brightest students, who are passionate about problem solving and have a motivation to succeed. Regardless of whether you join as a grad or an intern, you'll be supported in their industry-leading training programs to excel and make an impact on the real world.
         </p>
