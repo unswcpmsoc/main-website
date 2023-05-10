@@ -1,9 +1,10 @@
 ---
-# title: "Sponsors"
+title: "Sponsors"
 menu: 
     main:
         parent: "aboutus"
         weight: 2
+no-title: true
 ---
 
 <style type="text/css">
