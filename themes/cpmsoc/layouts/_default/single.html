@@ -1,5 +1,7 @@
 {{ define "main" }}
-    <h1 class="title is-1">{{ .Title }}</h1>
+    {{ if not (isset .Params "no-title") }}
+        <h1 class="title is-1">{{ .Title }}</h1>
+    {{ end }}
     <div class="content">
         {{ .Content }}
     </div>
