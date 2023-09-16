@@ -84,11 +84,9 @@ menu:
 
 - 3.1.3 A Treasurer;
 
-- 3.1.4 An Arc Delegate;
+- 3.1.4 An Arc Delegate; and
 
-- 3.1.5 A Grievance Officer; and
-
-- 3.1.6 An Equity, Diversity and Inclusion Officer.
+- 3.1.5 A Grievance, Equity, Diversity and Inclusion Officer.
 
 #### 3.2  The term of office for each executive shall begin on the first day after the UNSW Term 3 Exam Period in the year in which they are elected, and continue until the corresponding day in the following year.
 
@@ -232,7 +230,7 @@ menu:
 
     6. To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).
 
-- 3.10.5 Grievance Officer
+- 3.10.5 Grievance, Equity, Diversity and Inclusion Officer
 
     1. To receive complaints and grievances relating to the Club;
 
@@ -242,25 +240,23 @@ menu:
 
     4. To notify those involved of the outcome of the grievance.
 
-- 3.10.6 Equity, Diversity and Inclusion Officer
+    5. To foster an inclusive culture within the Club;
 
-    1. To foster an inclusive culture within the Club;
+    6. To facilitate and promote the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and Indigenous students);
 
-    2. To facilitate and promote the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and Indigenous students);
+    7. To engage and represent student members of non-majority demographics of the Club;
 
-    3. To engage and represent student members of non-majority demographics of the Club;
+    8. To ensure the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
 
-    4. To ensure the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
+    9. To ensure that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
 
-    5. To ensure that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
+    10. To be an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
 
-    6. To be an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
+    11. To provide guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
 
-    7. To provide guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
+    12. To keep apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive; and
 
-    8. To keep apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive; and
-
-    9. To monitor engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive.
+    13. To monitor engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive.
 
 ## 4  Meetings
 
