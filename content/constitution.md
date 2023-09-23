@@ -52,27 +52,29 @@ menu:
 
 #### 2.1  Contact details for members of the club are to remain with the Executive and Arc to have sole access. Contact details are not to be given or sold to any other person.
 
-#### 2.2  Associate membership shall be open to those UNSW students who are ineligible for membership, as well as UNSW alumni and current UNSW staff, provided that they complete a membership form prepared by the club Executive.
+#### 2.2  Full membership of the club shall be open to all UNSW students, and they shall be required to complete a membership form.
 
-#### 2.3  The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
+#### 2.3  Associate membership shall be open to those UNSW students who are ineligible for membership, as well as UNSW alumni and current UNSW staff, provided that they complete a membership form prepared by the club Executive.
 
-#### 2.4  The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
+#### 2.4  The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
 
-#### 2.5  Notwithstanding clause 2.7, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.7.
+#### 2.5  The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
 
-#### 2.6  Notwithstanding clause 2.7, a member or associate member of a club may have their membership terminated after the following procedure is followed:
+#### 2.6  Notwithstanding clause 2.8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.7.
 
-- 2.6.1  A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
+#### 2.7  Notwithstanding clause 2.8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
 
-- 2.6.2 The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
+- 2.7.1  A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
 
-- 2.6.3 The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting.
+- 2.7.2 The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
 
-- 2.6.4 The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting.
+- 2.7.3 The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting.
 
-- 2.6.5 The motion is carried by the Extraordinary General Meeting.
+- 2.7.4 The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting.
 
-#### 2.7  Any member of a club or club Executive who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
+- 2.7.5 The motion is carried by the Extraordinary General Meeting.
+
+#### 2.8  Any member of a club or club Executive who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
 
 ## 3  Executive
 
@@ -90,7 +92,7 @@ menu:
 
 #### 3.2  The term of office for each executive shall begin on the first day after the UNSW Term 3 Exam Period in the year in which they are elected, and continue until the corresponding day in the following year.
 
-#### 3.3  One member is permitted to hold up to two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the following exceptions:
+#### 3.3  Each member is permitted to hold up to two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the following exceptions:
 
 - 3.3.1 The positions of the two Co-Presidents must be held by two distinct people; and
 
@@ -118,7 +120,7 @@ menu:
 
 - 3.7.2 Cease to be a member of the club;
 
-- 3.7.3 Cease to be a UNSW student; 
+- 3.7.3 Cease to be a UNSW student; or
 
 - 3.7.4 Have their position declared vacant at an Extraordinary General Meeting.
 
@@ -204,7 +206,7 @@ menu:
 
     10. To pay all accounts by cheque;
 
-    11. To always enter the payees name, the cheque amount and a brief explanation of the payment on the cheque butt;
+    11. To always enter the payee's name, the cheque amount and a brief explanation of the payment on the cheque butt;
 
     12. To always provide a receipt to a person who gives money to the club for any reason and bank all money received immediately;
 
@@ -236,7 +238,7 @@ menu:
 
     2. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
 
-    3. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
+    3. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially;
 
     4. To notify those involved of the outcome of the grievance.
 
