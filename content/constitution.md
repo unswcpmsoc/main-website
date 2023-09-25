@@ -188,7 +188,7 @@ menu:
 
     1. To keep and maintain all club financial records;
 
-    2. To hold petty cash tins etc;
+    2. To hold petty cash tins etc.;
 
     3. To keep the club informed of its financial position (at meetings, through regular e-mail reports, or through regular newsletters);
 
@@ -222,7 +222,7 @@ menu:
 
     1. To be aware of the Arc funding system, its requirements and its possibilities for the club;
 
-    2. To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc);
+    2. To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc.);
 
     3. To liaise with Arc and the club’s Executive;
 
@@ -254,7 +254,7 @@ menu:
 
     10. To be an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
 
-    11. To provide guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
+    11. To provide guidance to representatives of the Club (Executives, committee members, volunteers etc.) on appropriate ways to communicate and behave inclusively;
 
     12. To keep apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive; and
 
