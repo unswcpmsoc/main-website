@@ -31,7 +31,8 @@ no-title: true
 <h4 style="text-align: center">Minor Sponsors</h4>
 <div>
     <img src="/assets/vivcourt_logo.png" style="height: 29%; width: 29%; min-width: 200px; margin: auto; padding-left: 0.65rem" />
-        <p style="margin-top: 1rem; margin-bottom: 1rem; font-size: 1rem;">We use technology and data to trade diverse assets and execute various trading strategies on the world’s financial markets.
+        <p style="margin-top: 1rem; margin-bottom: 1rem; font-size: 1rem;">
+We use technology and data to trade diverse assets and execute various trading strategies on the world’s financial markets.
 
 Employee wellbeing and growth is at the heart of our ethos and we create a positive impact by sharing our profits and our purposefully chosen social causes with our people.
         </p>
