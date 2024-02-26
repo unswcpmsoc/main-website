@@ -11,7 +11,7 @@ no-title: true
   ol { list-style-type: lower-alpha !important; }
 </style>
 
-<h4 style="text-align: center">Principal Sponsors</h4>
+<h4 style="text-align: center">Main Sponsors</h4>
 <div>
     <div style="display: flex; flex-direction: column;">
         <img src="/assets/citadel_securities_logo.png" style="height: 60%; width: 60%; min-width: 250px; margin: auto;"/>
@@ -20,16 +20,16 @@ no-title: true
         </p>
     </div>
     <div style="height: 2rem"></div>
-</div>
-
-<h4 style="text-align: center">Major Sponsors</h4>
-<div>
     <div style="display: flex; flex-direction: column;">
         <img src="/assets/js_logo.png" style="height: 34%; width: 34%; min-width: 210px; margin: auto;"/>
         <p style="margin-top: 1rem; margin-bottom: 1rem; font-size: 1rem;">
             Jane Street is a quantitative trading firm with offices worldwide. We hire smart, humble people who love to solve problems, build systems, and test theories. You’ll learn something new every day in our office—whether it’s connecting with a colleague to share perspectives, or participating in a talk, class, or game night. Our success is driven by our people and we never stop improving.
         </p>
     </div>
+</div>
+
+<h4 style="text-align: center">Minor Sponsors</h4>
+<div>
     <div style="height: 2rem"></div>
     <div style="display: flex; flex-direction: column;">
         <img src="/assets/optiver_logoo.png" style="height: 29%; width: 29%; min-width: 200px; margin: auto; padding-left: 0.65rem" />
