@@ -11,7 +11,7 @@ no-title: true
   ol { list-style-type: lower-alpha !important; }
 </style>
 
-<h4 style="text-align: center">Main Sponsors</h4>
+<h4 style="text-align: center">Major Sponsors</h4>
 <div>
     <div style="display: flex; flex-direction: column;">
         <img src="/assets/citadel_securities_logo.png" style="height: 60%; width: 60%; min-width: 250px; margin: auto;"/>
