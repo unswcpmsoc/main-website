@@ -6,10 +6,6 @@ menu:
         weight: 2
 ---
 
-<style type="text/css">
-  ol { list-style-type: lower-alpha !important; }
-</style>
-
 ## 1  Introduction
 
 #### 1.1 The official name of the club shall be ‘UNSW Competitive Programming and Mathematics Society’.
