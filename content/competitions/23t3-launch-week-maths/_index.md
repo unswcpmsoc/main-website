@@ -5,9 +5,9 @@ weight: 13
 
 [Facebook event](https://www.facebook.com/events/151751754593488/)
 
-[Debrief slides](debrief_slides.pdf)
+[Leaderboard](leaderboard)
 
-[Scoreboard](leaderboard)
+[Debrief slides](debrief_slides.pdf)
 
 Prize Winners:
 

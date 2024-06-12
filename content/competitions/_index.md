@@ -1,7 +1,8 @@
 ---
 title: "Competitions"
-layout: "competitions"
 menu: 
   main:
     parent: "events"
+params:
+    list_child_pages: true
 ---

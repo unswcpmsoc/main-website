@@ -9,6 +9,10 @@ weight: 9
 
 [Beginner Division](https://www.hackerrank.com/contests/imc-x-csesoc-x-cpmsoc-coding-competition-2023-beginner)
 
+[Advanced Leaderboard](advanced_leaderboard)
+
+[Beginner Leaderboard](beginner_leaderboard)
+
 Advanced Winners:
 
 - 1st place: Angus Ritossa

@@ -1,8 +1,15 @@
 {{ define "main" }}
-    {{ if not (isset .Params "no-title") }}
-        <h1 class="title is-1">{{ .Title }}</h1>
-    {{ end }}
+    <h1 class="title is-1">{{ .Title }}</h1>
     <div class="content">
+        {{ if .Param "list_child_pages" }}
+            <ul>
+                {{ range .Data.Pages.Reverse }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    </li>
+                {{ end }}
+            </ul>
+        {{ end }}
         {{ .Content }}
     </div>
 {{ end }}
