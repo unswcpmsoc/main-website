@@ -12,5 +12,17 @@ to = "https://www.instagram.com/cpmsoc_unsw/"
 
 [[redirects]]
 from = "/newsletter"
-to = "https://docs.google.com/forms/d/e/1FAIpQLSeXwTqSzbHGxlwypQBhtEZlbdYroEBb_7-bUpM9nsTfIP4wtg/viewform?usp=sf_link"
+to = "https://forms.gle/L9VeEY8ZDqYKDyha6"
+
+[[redirects]]
+from = "/apply"
+to = "https://forms.gle/2ppFkLYxngP16dxi9"
+
+[[redirects]]
+from = "/attendance"
+to = "https://forms.gle/VKT3GeYGrZtFu4CQA"
+
+[[redirects]]
+from = "/feedback"
+to = "https://forms.gle/a8TAMjrpEWSD3TWj6"
 
