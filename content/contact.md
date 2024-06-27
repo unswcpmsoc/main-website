@@ -30,5 +30,3 @@ Here are some other places you can find us
 [LinkedIn](https://www.linkedin.com/company/cpmsoc/)
 
 [Mailing List](https://forms.gle/3rEeBweFcpeeF7mD6)
-
-
