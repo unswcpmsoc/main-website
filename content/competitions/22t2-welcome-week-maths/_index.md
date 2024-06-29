@@ -1,13 +1,12 @@
 ---
 title: "2022 Term 2 Welcome Week Maths Contest"
-weight: 5
+date: 2022-06-01
 ---
 
-[Facebook event](https://www.facebook.com/events/1019246835373006)
-
-[Leaderboard](leaderboard)
-
-[Problems and solutions](problems_solutions.pdf)
+- [Problems and solutions](problems_solutions.pdf)
+<!--more-->
+- [Leaderboard](leaderboard)
+- [Facebook event](https://www.facebook.com/events/1019246835373006)
 
 Prize Winners:
 

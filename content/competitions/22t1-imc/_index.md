@@ -1,15 +1,13 @@
 ---
 title: "2022 IMC Coding Competition"
-weight: 4
+date: 2022-03-12
 ---
 
-[Facebook event](https://www.facebook.com/events/1179606166178437/)
-
-[Division A (open)](https://www.hackerrank.com/imc-x-csesoc-x-cpmsoc-coding-competition-2022-division-a)
-
-[Division B (easy)](https://www.hackerrank.com/imc-x-csesoc-x-cpmsoc-coding-competition-2022-division-b)
-
-[Walkthrough of select problems](https://www.youtube.com/watch?v=4LaNth9mZrY)
+- [Division A (open) contest link](https://www.hackerrank.com/imc-x-csesoc-x-cpmsoc-coding-competition-2022-division-a)
+- [Division B (easy) contest link](https://www.hackerrank.com/imc-x-csesoc-x-cpmsoc-coding-competition-2022-division-b)
+<!--more-->
+- [Walkthrough of select problems](https://www.youtube.com/watch?v=4LaNth9mZrY)
+- [Facebook event](https://www.facebook.com/events/1179606166178437)
 
 Division A Winners:
 

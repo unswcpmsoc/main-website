@@ -1,13 +1,12 @@
 ---
 title: "2023 Term 2 Launch Week Contest"
-weight: 12
+date: 2023-06-06
 ---
 
-[Facebook event](https://www.facebook.com/events/1319847001944784)
-
-[Debrief slides](debrief_slides.pdf)
-
-[Leaderboard](leaderboard)
+<!--more-->
+- [Debrief slides](debrief_slides.pdf)
+- [Leaderboard](leaderboard)
+- [Facebook event](https://www.facebook.com/events/1319847001944784)
 
 Prize Winners:
 

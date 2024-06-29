@@ -1,9 +1,10 @@
 ---
 title: "2023 Inter-University Coding Competition 2023 (CPC x CSESoc x CISSA x CPMSoc x UMCPC x WDCC x SYNCS)"
-weight: 15
+date: 2023-10-07
 ---
 
-[Facebook event](https://www.facebook.com/events/272996138899956)
+<!--more-->
+- [Facebook event](https://www.facebook.com/events/272996138899956)
 
 Competitive Stream Winners:
 

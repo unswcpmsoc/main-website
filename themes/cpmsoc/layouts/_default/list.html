@@ -2,13 +2,18 @@
     <h1 class="title is-1">{{ .Title }}</h1>
     <div class="content">
         {{ if .Param "list_child_pages" }}
-            <ul>
-                {{ range .Data.Pages.Reverse }}
-                    <li>
-                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                    </li>
-                {{ end }}
-            </ul>
+            {{ range .Pages.GroupByDate "2006" }}
+                <h2>{{ .Key }}</h2>
+                <ul>
+                    {{ range .Pages }}
+                        <li>
+                            {{ .Title }} (<a href="{{ .RelPermalink }}">full details</a>)
+                        </li>
+                        {{/* slightly cooked thing to make links in the summary work */}}
+                        {{ replace .Summary "href=\"" (print "href=\"" .RelPermalink) | safeHTML }}
+                    {{ end }}
+                </ul>
+            {{ end }}
         {{ end }}
         {{ .Content }}
     </div>

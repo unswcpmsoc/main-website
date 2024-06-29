@@ -1,11 +1,11 @@
 ---
 title: "2024 UNSFW Contest"
-weight: 18
+date: 2024-04-01
 ---
 
-[Facebook event](https://www.facebook.com/events/783950309935539/)
-
-[Leaderboard](leaderboard)
+<!--more-->
+- [Leaderboard](leaderboard)
+- [Facebook event](https://www.facebook.com/events/783950309935539)
 
 Winners:
 

@@ -1,11 +1,11 @@
 ---
 title: "2024 Rookie Code Rumble (CSESoc x SecSoc x CPMSoc)"
-weight: 20
+date: 2024-06-24
 ---
 
-[Facebook event](https://www.facebook.com/events/1181446792862954)
-
-[Leaderboard](leaderboard)
+<!--more-->
+- [Leaderboard](leaderboard)
+- [Facebook event](https://www.facebook.com/events/1181446792862954)
 
 Prize Winners
 

@@ -1,13 +1,12 @@
 ---
 title: "2023 Term 3 Launch Week Maths Contest"
-weight: 13
+date: 2023-09-08
 ---
 
-[Facebook event](https://www.facebook.com/events/151751754593488/)
-
-[Leaderboard](leaderboard)
-
-[Debrief slides](debrief_slides.pdf)
+<!--more-->
+- [Facebook event](https://www.facebook.com/events/151751754593488)
+- [Leaderboard](leaderboard)
+- [Debrief slides](debrief_slides.pdf)
 
 Prize Winners:
 

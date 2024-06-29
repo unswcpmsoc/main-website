@@ -1,9 +1,10 @@
 ---
 title: "2024 O-Week Dragon Contest"
-weight: 16
+date: 2024-02-05
 ---
 
-[Facebook event](https://www.facebook.com/events/1360684534569075/)
+<!--more-->
+- [Facebook event](https://www.facebook.com/events/1360684534569075)
 
 Prize Winners:
 

@@ -1,11 +1,11 @@
 ---
 title: "2021 CSESoc & CPMSoc Programming Contest"
-weight: 2
+date: 2021-10-30
 ---
 
-[Facebook event](https://fb.me/e/1h4Kij8wu)
-
-[Contest link](https://www.hackerrank.com/contests/csesoc-x-cpmsoc-programming-contest-2021/challenges)
+- [Contest link](https://www.hackerrank.com/contests/csesoc-x-cpmsoc-programming-contest-2021/challenges)
+<!--more-->
+- [Facebook event](https://www.facebook.com/events/1164508914354281)
 
 Winners:
     

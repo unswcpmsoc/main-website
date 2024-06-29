@@ -1,15 +1,13 @@
 ---
 title: "2024 IMC Coding Competition"
-weight: 17
+date: 2024-03-13
 ---
 
-[Facebook event](https://www.facebook.com/events/1106870833796065/)
-
-[Advanced Leaderboard](advanced_leaderboard)
-
-[Beginner Leaderboard](beginner_leaderboard)
-
-[Editorial](editorial.pdf)
+<!--more-->
+- [Editorial](editorial.pdf)
+- [Advanced Leaderboard](advanced_leaderboard)
+- [Beginner Leaderboard](beginner_leaderboard)
+- [Facebook event](https://www.facebook.com/events/1106870833796065/)
 
 Advanced Division Winners
 

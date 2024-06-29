@@ -1,11 +1,11 @@
 ---
 title: "2022 Term 3 Welcome Week Contest"
-weight: 6
+date: 2022-09-10
 ---
 
-[Facebook event](https://www.facebook.com/events/464741855569176)
-
-[Leaderboard](leaderboard)
+<!--more-->
+- [Facebook event](https://www.facebook.com/events/464741855569176)
+- [Leaderboard](leaderboard)
 
 Prize Winners:
 
