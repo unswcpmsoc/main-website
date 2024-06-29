@@ -23,7 +23,7 @@ Citadel Securities is a leading global market maker, delivering a broad array of
 
 Jane Street is a quantitative trading firm with offices worldwide. We hire smart, humble people who love to solve problems, build systems, and test theories. You’ll learn something new every day in our office—whether it’s connecting with a colleague to share perspectives, or participating in a talk, class, or game night. Our success is driven by our people and we never stop improving.
 
-# Major Sponsors
+# Minor Sponsors
 
 <img src="optiver_logo.png" style="width: 400px;"/>
 
