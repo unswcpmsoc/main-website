@@ -7,10 +7,21 @@
                 <ul>
                     {{ range .Pages }}
                         <li>
-                            {{ .Title }} (<a href="{{ .RelPermalink }}">full details</a>)
+                            {{ .Title }}
+                            {{/*
+                            {{ $problemsFile := print .RelPermalink "problems.pdf" }}
+                            {{ $solutionsFile := print .RelPermalink "solutions.pdf" }}
+                            {{ $leaderboardFile := print .RelPermalink "leaderboard.html" }}
+                            {{ $leaderboardLink := print .RelPermalink "leaderboard" }}
+                            (<a href="{{ .RelPermalink }}">full details</a>{{ if fileExists $problemsFile }},
+                            <a href="{{ $problemsFile }}">problems</a>{{ end }}{{ if fileExists $solutionsFile }},
+                            <a href="{{ $solutionsFile }}">solutions</a>{{ end }}{{ if fileExists $leaderboardFile }},
+                            <a href="{{ $leaderboardLink }}">leaderboard</a>{{ end }})
+                            */}}
+                            (<a href="{{ .RelPermalink }}">full details</a>{{ range .Pages }},
+                            <a href="{{ .RelPermalink }}">{{ replace .File.BaseFileName "_" " " }}</a>{{ end }}{{ range .Resources }},
+                            <a href="{{ .RelPermalink }}">{{ replace (strings.TrimSuffix (path.Ext .Name) .Name) "_" " " }}</a>{{ end }})
                         </li>
-                        {{/* slightly cooked thing to make links in the summary work */}}
-                        {{ replace .Summary "href=\"" (print "href=\"" .RelPermalink) | safeHTML }}
                     {{ end }}
                 </ul>
             {{ end }}

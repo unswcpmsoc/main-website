@@ -3,7 +3,6 @@ title: "2022 Term 3 Welcome Week Contest"
 date: 2022-09-10
 ---
 
-<!--more-->
 - [Facebook event](https://www.facebook.com/events/464741855569176)
 - [Leaderboard](leaderboard)
 

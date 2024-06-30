@@ -3,7 +3,6 @@ title: "2023 Inter-University Coding Competition 2023 (CPC x CSESoc x CISSA x CP
 date: 2023-10-07
 ---
 
-<!--more-->
 - [Facebook event](https://www.facebook.com/events/272996138899956)
 
 Competitive Stream Winners:

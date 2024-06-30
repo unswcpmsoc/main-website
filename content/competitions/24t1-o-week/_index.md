@@ -3,7 +3,6 @@ title: "2024 O-Week Dragon Contest"
 date: 2024-02-05
 ---
 
-<!--more-->
 - [Facebook event](https://www.facebook.com/events/1360684534569075)
 
 Prize Winners:

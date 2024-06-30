@@ -3,10 +3,9 @@ title: "2023 Term 2 CPMSoc x MathSoc Integration Bee"
 date: 2023-06-28
 ---
 
+- [Facebook event](https://www.facebook.com/events/171043165771611)
 - [Problems](problems.pdf)
 - [Solutions](solutions.pdf)
-<!--more-->
-- [Facebook event](https://www.facebook.com/events/171043165771611)
 
 Prize Winners:
 

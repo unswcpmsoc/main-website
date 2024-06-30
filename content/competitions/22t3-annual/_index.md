@@ -3,10 +3,9 @@ title: "2022 Annual Programming Competition (CSESoc x UMCPC x SYNCS x CISSA x CP
 date: 2022-09-24
 ---
 
+- [Facebook event](https://www.facebook.com/events/839336007056056)
 - [Division A (open) contest link](https://www.hackerrank.com/2022-annual-programming-competition-division-a)
 - [Division B (easy) contest link](https://www.hackerrank.com/2022-annual-programming-competition-division-b)
-<!--more-->
-- [Facebook event](https://www.facebook.com/events/839336007056056)
 
 Advanced Winners:
     

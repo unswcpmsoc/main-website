@@ -3,9 +3,8 @@ title: "2024 UNSFW Contest"
 date: 2024-04-01
 ---
 
-<!--more-->
-- [Leaderboard](leaderboard)
 - [Facebook event](https://www.facebook.com/events/783950309935539)
+- [Leaderboard](leaderboard)
 
 Winners:
 

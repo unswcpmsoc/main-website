@@ -3,12 +3,11 @@ title: "2023 IMC Coding Competition"
 date: 2023-03-02
 ---
 
+- [Facebook event](https://www.facebook.com/events/742155674149402)
 - [Advanced contest link](https://www.hackerrank.com/contests/imc-x-csesoc-x-cpmsoc-coding-competition-2023-advanced)
 - [Beginner contest link](https://www.hackerrank.com/contests/imc-x-csesoc-x-cpmsoc-coding-competition-2023-beginner)
-<!--more-->
 - [Advanced leaderboard](advanced_leaderboard)
 - [Beginner leaderboard](beginner_leaderboard)
-- [Facebook event](https://www.facebook.com/events/742155674149402)
 
 Advanced Winners:
 

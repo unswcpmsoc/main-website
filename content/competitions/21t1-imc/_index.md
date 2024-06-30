@@ -3,11 +3,9 @@ title: "2021 IMC Coding Competition"
 date: 2021-03-21
 ---
 
+- [Facebook event](https://www.facebook.com/events/240910471038537)
 - [Division A (easy) contest link](https://www.hackerrank.com/imc-x-csesoc-x-cpmsoc-coding-competition-division-a)
 - [Division B (open) contest link](https://www.hackerrank.com/imc-x-csesoc-x-cpmsoc-coding-competition-division-b)
-<!--more-->
-- [Facebook event](https://www.facebook.com/events/240910471038537)
-
 
 Walkthrough of select problems:
 

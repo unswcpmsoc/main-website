@@ -3,7 +3,6 @@ title: "2023 Term 3 Launch Week Maths Contest"
 date: 2023-09-08
 ---
 
-<!--more-->
 - [Facebook event](https://www.facebook.com/events/151751754593488)
 - [Leaderboard](leaderboard)
 - [Debrief slides](debrief_slides.pdf)

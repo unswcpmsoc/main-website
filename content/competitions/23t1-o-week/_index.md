@@ -3,10 +3,9 @@ title: "2023 O-Week Contest"
 date: 2023-02-06
 ---
 
-<!--more-->
+- [Facebook event](https://www.facebook.com/events/639073991554726)
 - [Debrief slides](debrief_slides.pdf)
 - [Leaderboard](leaderboard)
-- [Facebook event](https://www.facebook.com/events/639073991554726)
 
 Prize Winners:
 

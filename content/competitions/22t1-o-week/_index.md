@@ -3,11 +3,10 @@ title: "2022 O-Week Contest"
 date: 2022-02-08
 ---
 
+- [Facebook event](https://www.facebook.com/events/243994761227973)
 - [Problems](problems.pdf)
-<!--more-->
 - [Debrief slides](debrief_slides.pdf)
 - [Leaderboard](leaderboard)
-- [Facebook event](https://www.facebook.com/events/243994761227973)
 
 Prize Winners:
 

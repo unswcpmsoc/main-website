@@ -3,9 +3,8 @@ title: "2024 Launch Week Penguin Contest"
 date: 2024-05-27
 ---
 
-<!--more-->
-- [Leaderboard](leaderboard)
 - [Facebook event](https://www.facebook.com/events/811428290922172)
+- [Leaderboard](leaderboard)
 
 Prize winners:
 
