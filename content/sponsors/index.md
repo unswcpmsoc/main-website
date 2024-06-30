@@ -6,7 +6,7 @@ menu:
         weight: 2
 ---
 
-<style type="text/css">
+<style>
 .sponsor_logo {
     display: block;
     margin: auto;
