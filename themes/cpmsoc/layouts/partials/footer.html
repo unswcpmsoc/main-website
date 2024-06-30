@@ -1,32 +1,31 @@
 <footer class="footer">
   <div class="content container">
     <div class="columns">
-      <div class="column is-8 is-12-mobile is-size-7">
+      <div class="column is-8 is-12-mobile is-size-7" style="margin:auto">
         &copy; UNSW Competitive Programming and Mathematics Society {{ now.Format "2006" }}
       </div>
+
+      <!-- Auto change color of IMG using filters. !-->
+      <!-- The exact color in question has that hex color and was converted using a hex => CSS filter converter online -->
+      <style>
+        img.small-social {
+          padding: 3px;
+          filter: invert(50%) sepia(53%) saturate(6477%) hue-rotate(233deg) brightness(98%) contrast(87%);
+          /* fill: #7c61ea; */
+        }
+      </style>
       <div class="column is-4 is-12-mobile has-text-right">
         <a href="https://www.facebook.com/CPMSoc/">
-          <img class="small-social" src="/assets/icons/facebook_purple.png">
+          <img class="small-social" src="/assets/icons/facebook.svg">
         </a>
         <a href="https://discord.gg/9uxgxHY3pP">
-          <img class="small-social" src="/assets/icons/discord_purple.png">
+          <img class="small-social" src="/assets/icons/discord.svg">
+        </a>
+        <a fill=currentColor href="https://calendar.google.com/calendar/u/0?cid=Y19mNDVmMzdjOGQzM2U2MGNlMDE4ZmMwZWU2MjcyNDdkN2Y3ODI3NDFmMmZiNmRjYjIxYjA5ZWU4YjRlYWY1YTFjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20Pm">
+          <img class="small-social" src="/assets/icons/calendar2-date-fill.svg">
         </a>
         <a href="mailto:cpmsoc@unswcpmsoc.com">
-          <img class="small-social" src="/assets/icons/mail_purple.png">
-        </a>
-
-        <!-- Unfortunately need this hack to get around some hover rule -->
-        <style>
-          svg:hover {
-            color: #7c61ea;
-            /* background-color: currentColor; */
-          }
-        </style>
-        <a href="https://calendar.google.com/calendar/u/0?cid=Y19mNDVmMzdjOGQzM2U2MGNlMDE4ZmMwZWU2MjcyNDdkN2Y3ODI3NDFmMmZiNmRjYjIxYjA5ZWU4YjRlYWY1YTFjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20Pm">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" style="padding: 3px" class="bi bi-calendar2-date-fill small-social" viewBox="0 0 16 16">
-            <path d="M9.402 10.246c.625 0 1.184-.484 1.184-1.18 0-.832-.527-1.23-1.16-1.23-.586 0-1.168.387-1.168 1.21 0 .817.543 1.2 1.144 1.2"/>
-            <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5m9.954 3H2.545c-.3 0-.545.224-.545.5v1c0 .276.244.5.545.5h10.91c.3 0 .545-.224.545-.5v-1c0-.276-.244-.5-.546-.5m-4.118 9.79c1.258 0 2-1.067 2-2.872 0-1.934-.781-2.668-1.953-2.668-.926 0-1.797.672-1.797 1.809 0 1.16.824 1.77 1.676 1.77.746 0 1.23-.376 1.383-.79h.027c-.004 1.316-.461 2.164-1.305 2.164-.664 0-1.008-.45-1.05-.82h-.684c.047.64.594 1.406 1.703 1.406zm-2.89-5.435h-.633A13 13 0 0 0 4.5 8.16v.695c.375-.257.969-.62 1.258-.777h.012v4.61h.675V7.354z"/>
-          </svg>
+          <img class="small-social" src="/assets/icons/envelope-fill.svg">
         </a>
 
           <!-- <a href="mailto:cpmsoc@unswcpmsoc.com"><img src="/assets/email.png" class="contact-thumb" align="right"></a>
