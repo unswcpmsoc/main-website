@@ -1,6 +1,10 @@
 ---
 title: "2023 IMC Coding Competition"
 date: 2023-03-02
+params:
+    extralinks:
+        advanced contest link: "https://www.hackerrank.com/contests/imc-x-csesoc-x-cpmsoc-coding-competition-2023-advanced"
+        beginner contest link: "https://www.hackerrank.com/contests/imc-x-csesoc-x-cpmsoc-coding-competition-2023-beginner"
 ---
 
 - [Facebook event](https://www.facebook.com/events/742155674149402)

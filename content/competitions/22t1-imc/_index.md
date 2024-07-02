@@ -1,14 +1,18 @@
 ---
 title: "2022 IMC Coding Competition"
 date: 2022-03-12
+params:
+    extralinks:
+        advanced contest link: "https://www.hackerrank.com/imc-x-csesoc-x-cpmsoc-coding-competition-2022-division-a"
+        beginner contest link: "https://www.hackerrank.com/imc-x-csesoc-x-cpmsoc-coding-competition-2022-division-b"
 ---
 
 - [Facebook event](https://www.facebook.com/events/1179606166178437)
-- [Division A (open) contest link](https://www.hackerrank.com/imc-x-csesoc-x-cpmsoc-coding-competition-2022-division-a)
-- [Division B (easy) contest link](https://www.hackerrank.com/imc-x-csesoc-x-cpmsoc-coding-competition-2022-division-b)
+- [Advanced contest link](https://www.hackerrank.com/imc-x-csesoc-x-cpmsoc-coding-competition-2022-division-a)
+- [Beginner contest link](https://www.hackerrank.com/imc-x-csesoc-x-cpmsoc-coding-competition-2022-division-b)
 - [Walkthrough of select problems](https://www.youtube.com/watch?v=4LaNth9mZrY)
 
-Division A Winners:
+Advanced Winners:
 
 - 1st place: Kevin Zhu, Jeffrey Yang, Nathan Lee
 - 2nd place: Ali Khosravi
@@ -17,7 +21,7 @@ Division A Winners:
 - International Team Prize: Zixu Zhao
 - Postgraduate Team Prize: Yuanda Dong, Shuang Zhang
 
-Division B Winners:
+Beginner Winners:
 
 - 1st place: Zac Saber, Lachlan Blair, Tianlin Qu
 - 2nd place: Stephen Chuang, Aliff Mohammad Azlan
