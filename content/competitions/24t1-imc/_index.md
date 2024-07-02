@@ -4,7 +4,9 @@ date: 2024-03-13
 ---
 
 - [Facebook event](https://www.facebook.com/events/1106870833796065)
-- [Editorial](editorial.pdf)
+- [Problems](problems.pdf)
+- [Solutions](solutions.pdf)
+- [Test data](test_data.zip)
 - [Advanced Leaderboard](advanced_leaderboard)
 - [Beginner Leaderboard](beginner_leaderboard)
 

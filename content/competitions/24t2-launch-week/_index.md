@@ -4,6 +4,8 @@ date: 2024-05-27
 ---
 
 - [Facebook event](https://www.facebook.com/events/811428290922172)
+- [Problems](problems.pdf)
+- [Test data](test_data.zip)
 - [Leaderboard](leaderboard)
 
 Prize winners:
