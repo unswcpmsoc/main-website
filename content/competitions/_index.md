@@ -4,5 +4,5 @@ menu:
   main:
     parent: "events"
 params:
-    list_child_pages: true
+    competitions_root: true
 ---

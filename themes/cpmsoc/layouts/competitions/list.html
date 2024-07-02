@@ -1,0 +1,22 @@
+{{ define "main" }}
+    <h1 class="title is-1">{{ .Title }}</h1>
+    <div class="content">
+        {{ .Content }}
+        {{ if .Param "competitions_root" }}
+            {{ range .Pages.GroupByDate "2006" }}
+                <h2>{{ .Key }}</h2>
+                <ul>
+                    {{ range .Pages }}
+                        <li>
+                            {{ .Title }}
+                            (<a href="{{ .RelPermalink }}">full details</a>{{ range $key, $val := .Params.extralinks }},
+                            <a href="{{ $val }}">{{ $key }}</a>{{ end }}{{ range .Resources }},
+                            <a href="{{ .RelPermalink }}">{{ replace (strings.TrimSuffix (path.Ext .Name) .Name) "_" " " }}</a>{{ end }}{{ range .Pages }},
+                            <a href="{{ .RelPermalink }}">{{ replace .File.BaseFileName "_" " " }}</a>{{ end }})
+                        </li>
+                    {{ end }}
+                </ul>
+            {{ end }}
+        {{ end }}
+    </div>
+{{ end }}
