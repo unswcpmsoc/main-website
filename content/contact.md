@@ -9,7 +9,7 @@ menu:
 
 Contact us here
 
-[cpmsoc@unswcpmsoc.com](mailto:cpmsoc@unswcpmsoc.com)
+[Email (cpmsoc@unswcpmsoc.com)](mailto:cpmsoc@unswcpmsoc.com)
 
 [Discord server](https://discord.gg/9uxgxHY3pP)
 
@@ -29,4 +29,4 @@ Here are some other places you can find us
 
 [Mailing List](https://forms.gle/3rEeBweFcpeeF7mD6)
 
-
+[Events Calendar](https://calendar.google.com/calendar/u/0?cid=Y19mNDVmMzdjOGQzM2U2MGNlMDE4ZmMwZWU2MjcyNDdkN2Y3ODI3NDFmMmZiNmRjYjIxYjA5ZWU4YjRlYWY1YTFjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
