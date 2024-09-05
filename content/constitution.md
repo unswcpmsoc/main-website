@@ -20,11 +20,11 @@ menu:
 
 - 1.3.3 Encourage more students to get involved in competitive programming/mathematics.
 
-#### 1.4  In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N. E. Renton shall apply.
+#### 1.4 In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N. E. Renton shall apply.
 
 ## Definitions
 
-#### 1.5  For the purposes of this Constitution:
+#### 1.5 For the purposes of this Constitution:
 
 - 1.5.1 The University shall mean the University of New South Wales;
 
@@ -46,21 +46,21 @@ menu:
 
 ## 2 Membership
 
-#### 2.1  Contact details for members of the club are to remain with the Executive and Arc to have sole access. Contact details are not to be given or sold to any other person.
+#### 2.1 Contact details for members of the club are to remain with the Executive and Arc to have sole access. Contact details are not to be given or sold to any other person.
 
-#### 2.2  Full membership of the club shall be open to all UNSW students, and they shall be required to complete a membership form.
+#### 2.2 Full membership of the club shall be open to all UNSW students, and they shall be required to complete a membership form.
 
-#### 2.3  Associate membership shall be open to those UNSW students who are ineligible for membership, as well as UNSW alumni and current UNSW staff, provided that they complete a membership form prepared by the club Executive.
+#### 2.3 Associate membership shall be open to those UNSW students who are ineligible for membership, as well as UNSW alumni and current UNSW staff, provided that they complete a membership form prepared by the club Executive.
 
-#### 2.4  The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
+#### 2.4 The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
 
-#### 2.5  The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
+#### 2.5 The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
 
-#### 2.6  Notwithstanding clause 2.9, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 4.7.
+#### 2.6 Notwithstanding clause 2.9, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 4.7.
 
-#### 2.7  Notwithstanding clauses 2.8 and 2.9, a member or associate member of a club may have their membership terminated after the following procedure is followed:
+#### 2.7 Notwithstanding clauses 2.8 and 2.9, a member or associate member of a club may have their membership terminated after the following procedure is followed:
 
-- 2.7.1  A motion is carried by the Executive, or the Executive is petitioned by fifteen (20) members to instigate impeachment proceedings;
+- 2.7.1 A motion is carried by the Executive, or the Executive is petitioned by fifteen (20) members to instigate impeachment proceedings;
 
 - 2.7.2 The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 5.8;
 
@@ -70,7 +70,7 @@ menu:
 
 - 2.7.5 The motion is carried by the Extraordinary General Meeting.
 
-#### 2.8  Notwithstanding clause 2.9, an Executive, a member or associate member of a Club may have their membership terminated if the following occurs:
+#### 2.8 Notwithstanding clause 2.9, an Executive, a member or associate member of a Club may have their membership terminated if the following occurs:
 
 - 2.8.1 The person in question has acted in a way that has sabotaged the functions of the Club or disregarded the Constitution to the detriment of the Club’s membership; and/or,
 
@@ -92,13 +92,13 @@ menu:
 
     4. Any member of Arc Clubs Management, as required
 
-- 2.8.7	The person(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion. (refer to Arc Clubs Policy Section E, 33.5 - 33.11) 
+- 2.8.7 The person(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion. (refer to Arc Clubs Policy Section E, 33.5 - 33.11) 
 
-- 2.8.8	The motion is carried by the General Meeting.
+- 2.8.8 The motion is carried by the General Meeting.
 
-#### 2.9  Any member of a Club or Club Executive who believes they have been wrongly expelled may appeal to the Clubs Tribunal, who will arrive at the final resolution of the matter.
+#### 2.9 Any member of a Club or Club Executive who believes they have been wrongly expelled may appeal to the Clubs Tribunal, who will arrive at the final resolution of the matter.
 
-#### 2.10  Appeals must be submitted in writing within seven (7) days of receiving the penalty and must include a justification for seeking an appeal. 
+#### 2.10 Appeals must be submitted in writing within seven (7) days of receiving the penalty and must include a justification for seeking an appeal. 
 
 ## 3 Not-for-profit clause
 
@@ -132,7 +132,7 @@ menu:
 
 - 4.5.1 The activities of the club;
 
-- 4.5.3	The finances of the club;
+- 4.5.3 The finances of the club;
 
 - 4.5.3 Appointing members to the Committee;
 
@@ -162,9 +162,9 @@ menu:
 
 #### 4.9 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 5.
 
-#### 4.10	 Duties of the following Executive positions shall include but not be limited to:
+#### 4.10 Duties of the following Executive positions shall include but not be limited to:
 
-- 4.10.1	Co-Presidents
+- 4.10.1 Co-Presidents
 
     1. To chair all club, Committee, General and Annual General Meetings (held during their term) of the club;
 
@@ -202,7 +202,7 @@ menu:
 
     18. To pass on their knowledge to their successors.
 
-- 4.10.2	Secretary
+- 4.10.2 Secretary
 
     1. To be responsible for receiving and replying to all correspondence on behalf of the club;
 
@@ -214,7 +214,7 @@ menu:
 
     5. To maintain the membership list, updating when changes are made.
 
-- 4.10.3	Treasurer
+- 4.10.3 Treasurer
 
     1. To keep and maintain all club financial records;
 
@@ -248,7 +248,7 @@ menu:
 
     16. To ensure that under no circumstances are any expenses to be met without documentation.
 
-- 4.10.4	Arc Delegate
+- 4.10.4 Arc Delegate
 
     1. To be aware of the Arc funding system, its requirements and its possibilities for the club;
 
@@ -262,7 +262,7 @@ menu:
 
     6. To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).
 
-- 4.10.5	Welfare Officer
+- 4.10.5 Welfare Officer
 
     1. To foster an inclusive culture within the Club
 
@@ -298,9 +298,9 @@ menu:
 
 #### 5.1 At least one (1) Returning Officer must be appointed by the Executive prior to a General Meeting at which an election will take place.
 
-#### 5.2	The Returning Officers duties are as follows: 
+#### 5.2 The Returning Officers duties are as follows: 
 
-- 5.2.1	Returning Officer
+- 5.2.1 Returning Officer
 
     1. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management.
     
@@ -330,79 +330,79 @@ menu:
 
 #### 5.4 Notice in the form of an agenda for the Annual General Meeting shall be no less than fourteen (14) days, and is to be:
 
-- 5.4.1	Given in writing to Arc;
+- 5.4.1 Given in writing to Arc;
 
-- 5.4.2	Given in writing to all Club members, or upon approval by Arc displayed in a way that will guarantee an acceptable level of exposure among Club members.
+- 5.4.2 Given in writing to all Club members, or upon approval by Arc displayed in a way that will guarantee an acceptable level of exposure among Club members.
 
-#### 5.5	Quorum for the Annual General Meeting shall be:
+#### 5.5 Quorum for the Annual General Meeting shall be:
 
-- 5.5.1	Ten (10) or one half of the Club membership, whichever is the lesser, for all Clubs with less than 75 members, and for any other Club that has been active for less than 18 months from the time they first affiliated to Arc; or,
+- 5.5.1 Ten (10) or one half of the Club membership, whichever is the lesser, for all Clubs with less than 75 members, and for any other Club that has been active for less than 18 months from the time they first affiliated to Arc; or,
 
-- 5.5.2	Fifteen (15) ordinary members for all Clubs with more than 75 members that have been active for more than 18 months from the time they first affiliated to Arc. An ordinary member is defined as a member of the Club that did not serve as Executive in the current year.
+- 5.5.2 Fifteen (15) ordinary members for all Clubs with more than 75 members that have been active for more than 18 months from the time they first affiliated to Arc. An ordinary member is defined as a member of the Club that did not serve as Executive in the current year.
 
 #### 5.6 At an Annual General Meeting:
 
-- 5.6.1	Reports shall be presented by at least the President and the Treasurer;
+- 5.6.1 Reports shall be presented by at least the President and the Treasurer;
 
-- 5.6.2	Full financial reports shall be presented and adopted;
+- 5.6.2 Full financial reports shall be presented and adopted;
 
-- 5.6.3	Constitutional amendments and other motions on notice may be discussed and voted upon.
+- 5.6.3 Constitutional amendments and other motions on notice may be discussed and voted upon.
 
-- 5.6.4	The Chair will hand over the meeting to the Returning Officer who will:
+- 5.6.4 The Chair will hand over the meeting to the Returning Officer who will:
 
-    1. 5.6.4.1	Hold elections for a new Executive; and/or if this has already happened online, 
+    1. 5.6.4.1 Hold elections for a new Executive; and/or if this has already happened online, 
 
-    2. 5.6.4.2	Announce the winners and any other relevant information to attendees as required, before handing the meeting to the new, Incoming President, or in their absence, a duly elected Chair.
+    2. 5.6.4.2 Announce the winners and any other relevant information to attendees as required, before handing the meeting to the new, Incoming President, or in their absence, a duly elected Chair.
 
-#### 5.7	Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within fourteen (14) days of the meeting.
+#### 5.7 Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within fourteen (14) days of the meeting.
 
 ### Extraordinary General Meetings
 
-#### 5.8	There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under clause 5.10.
+#### 5.8 There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under clause 5.10.
 
-#### 5.9	The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified.
+#### 5.9 The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified.
 
-#### 5.10	To petition for an Extraordinary General Meeting, twenty (20) members or half of the Club membership, whichever is the lesser, must petition the Executive in writing.
+#### 5.10 To petition for an Extraordinary General Meeting, twenty (20) members or half of the Club membership, whichever is the lesser, must petition the Executive in writing.
 
-#### 5.11	Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than fourteen (14) days.
+#### 5.11 Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than fourteen (14) days.
 
-#### 5.12	There shall be other general meetings of the Club as the Executive sees fit.
+#### 5.12 There shall be other general meetings of the Club as the Executive sees fit.
 
 ### Meetings
 
-#### 5.13	General requirements for all meetings are as follows:
+#### 5.13 General requirements for all meetings are as follows:
 
-- 5.13.1	All voting at meetings shall be with a simple majority required for a resolution to be passed;
+- 5.13.1 All voting at meetings shall be with a simple majority required for a resolution to be passed;
 
-- 5.13.2	Each member is entitled to one vote;
+- 5.13.2 Each member is entitled to one vote;
 
-- 5.13.3	Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
+- 5.13.3 Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
 
-- 5.13.4	Only a Returning Officer, or in their absence, meeting Chair, may hold proxy votes.
+- 5.13.4 Only a Returning Officer, or in their absence, meeting Chair, may hold proxy votes.
 
-- 5.13.5	Elections for Executive shall use the “optional preferential” system;
+- 5.13.5 Elections for Executive shall use the “optional preferential” system;
 
-- 5.13.6	In the case of equality of voting a countback will be held, with the candidate that received the most first preference votes winning. If there is another tie, the second preference votes will determine the winner, and so on, until a winner is determined;
+- 5.13.6 In the case of equality of voting a countback will be held, with the candidate that received the most first preference votes winning. If there is another tie, the second preference votes will determine the winner, and so on, until a winner is determined;
 
-- 5.13.7	In the event a vote is completely and evenly matched, a re-vote will be held.
+- 5.13.7 In the event a vote is completely and evenly matched, a re-vote will be held.
 
-- 5.13.8	Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
+- 5.13.8 Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
 
-- 5.13.9	Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
+- 5.13.9 Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
 
-- 5.13.10	Motions not pertaining to Constitutional changes may be raised at the Meeting from any member in attendance.
+- 5.13.10 Motions not pertaining to Constitutional changes may be raised at the Meeting from any member in attendance.
 
-## 6  Finance
+## 6 Finance
 
-#### 6.1  The club shall hold an account with a financial institution approved by Arc.
+#### 6.1 The club shall hold an account with a financial institution approved by Arc.
 
-#### 6.2  The Executive must approve all accounts and expenditures for payment.
+#### 6.2 The Executive must approve all accounts and expenditures for payment.
 
-#### 6.3  All financial transactions shall require two signatures of members of the Executive.
+#### 6.3 All financial transactions shall require two signatures of members of the Executive.
 
-#### 6.4  The club shall nominate three members of the Executive as possible signatories for the account, one of which must be the club Treasurer. 
+#### 6.4 The club shall nominate three members of the Executive as possible signatories for the account, one of which must be the club Treasurer. 
 
-#### 6.5  The financial records of the club shall be open for inspection by Arc at all times.
+#### 6.5 The financial records of the club shall be open for inspection by Arc at all times.
 
 ## 7 Dissolution
 
