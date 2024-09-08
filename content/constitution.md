@@ -60,7 +60,7 @@ menu:
 
 #### 2.7 Notwithstanding clauses 2.8 and 2.9, a member or associate member of a club may have their membership terminated after the following procedure is followed:
 
-- 2.7.1 A motion is carried by the Executive, or the Executive is petitioned by fifteen (20) members to instigate impeachment proceedings;
+- 2.7.1 A motion is carried by the Executive, or the Executive is petitioned by twenty (20) members to instigate impeachment proceedings;
 
 - 2.7.2 The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 5.8;
 
