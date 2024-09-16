@@ -132,7 +132,7 @@ menu:
 
 - 4.5.1 The activities of the club;
 
-- 4.5.3 The finances of the club;
+- 4.5.2 The finances of the club;
 
 - 4.5.3 Appointing members to the Committee;
 
