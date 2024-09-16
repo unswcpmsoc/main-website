@@ -140,9 +140,9 @@ menu:
 
 - 4.5.4 The maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure.
 
-- 4.6 The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting.
+#### 4.6 The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting.
 
-- 4.7 Any member of the Executive shall have their position declared vacant if they:
+#### 4.7 Any member of the Executive shall have their position declared vacant if they:
 
 - 4.7.1 Die;
 
