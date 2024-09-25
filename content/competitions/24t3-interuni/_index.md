@@ -22,4 +22,4 @@ Beginner Division Winners
 - 3rd Place: Nhan Nguyen, Lacie Nguyen, Aarushi Raheja (CNA)
 - Ada Lovelace Prize: Wei Chie Tseng, Nila Fernando (notsureyet)
 
-Problems by Freddie Lu, Haibing Wang, Indra, Indra Kusumah-kasim, Kyle Zhang, Phuc Nguyen, Ryan Ong, Sabine Torres Lao, Victor Li, Willaim Wei, Yuexi He
+Problems by Freddie Lu, Haibing Wang, Indra Kusumah-kasim, Kyle Zhang, Phuc Nguyen, Ryan Ong, Sabine Torres Lao, Victor Li, Willaim Wei, Yuexi He
