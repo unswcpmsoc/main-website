@@ -31,4 +31,4 @@ Prize winners:
 1. Phuc Huy Nguyen (adrian)
 1. Amy Tian (@)
 
-Problems by Cyril Subramanian, Evan Lin, Frank Zhang, Isaiah Iliffe, Kyle Zhang, Noah Batsukh, Otto Ohis, Ryan Ong
+Problems by Cyril Subramanian, Evan Lin, Frank Zhang, Isaiah Iliffe, Kyle Zhang, Noah Batsukh, Otto Ohis, Ryan Ong, Evan Lin

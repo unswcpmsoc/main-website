@@ -9,3 +9,5 @@ date: 2024-09-09
 Prize Winners
 
 - TBD
+
+Problems by Ashley Clayton, Cyril Subramanian, Evan Lin, Frank Zhang, Kyle Zhang, Noah Batsukh, Ryan Ong
