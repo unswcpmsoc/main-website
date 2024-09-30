@@ -22,4 +22,11 @@ Beginner Division Winners
 - 3rd Place: ???
 - Ada Lovelace Prize: Wei Chie Tseng, Nila Fernando (notsureyet)
 
+Raffle Winners
+
+- Harry Breslin, Oscar Breslin, Daniel Nguyen
+- Emrys Dai, Suhan Karaca, Paul Liao
+- Tushar Bansal, Shantanu Prashant Khanzode, Nowmicaa Matheswaran
+
+
 Problems by Freddie Lu, Haibing Wang, Indra Kusumah-kasim, Kyle Zhang, Phuc Nguyen, Ryan Ong, Sabine Torres Lao, Victor Li, Willaim Wei, Yuexi He
