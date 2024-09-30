@@ -10,7 +10,7 @@ date: 2024-09-21
 
 Advanced Division Winners
 
-- 1st Place: Angus Ritossa, Jerry Li, Evan Lin  (pizzasushi)
+- 1st Place: Angus Ritossa, Jerry Li, Evan Lin  (sushipasta)
 - 2nd Place: Jiannan Zou, Bharat Singla (404NameNotFound)
 - 3rd Place: Sizhuo Long, Mingxin Li, Xiaoyu Su (GoodTeam)
 - Grace Hopper Prize: Shayla Nguyen, Tom Frew, Jack Morton (Sprinkle_Forces)
