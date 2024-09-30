@@ -17,9 +17,9 @@ Advanced Division Winners
 
 Beginner Division Winners
 
-- 1st Place: Tushar Bansal, Nowmica, Shantanu Khanzode (oneandzero)
+- 1st Place: Tushar Bansal, Nowmica Matheswaran, Shantanu Prashant Khanzode (oneandzero)
 - 2nd Place: Rohit Kumar, Jeet, Shashikant Choudhary  (XtremeCoders)
-- 3rd Place: Nhan Nguyen, Lacie Nguyen, Aarushi Raheja (CNA)
+- 3rd Place: ???
 - Ada Lovelace Prize: Wei Chie Tseng, Nila Fernando (notsureyet)
 
 Problems by Freddie Lu, Haibing Wang, Indra Kusumah-kasim, Kyle Zhang, Phuc Nguyen, Ryan Ong, Sabine Torres Lao, Victor Li, Willaim Wei, Yuexi He
