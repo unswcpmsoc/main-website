@@ -4,7 +4,7 @@ date: 2022-06-01
 ---
 
 - [Facebook event](https://www.facebook.com/events/1019246835373006)
-- [Problems and solutions](problems_solutions.pdf)
+- [Problems and solutions](problems_and_solutions.pdf)
 - [Leaderboard](leaderboard)
 
 Prize Winners:
