@@ -1,0 +1,61 @@
+<!-- Custom paginator widget -->
+<!-- taken from https://github.com/jonifen/jonifen-web/blob/main/layouts/partials/widgets/pager.html -->
+
+{{ if gt $.Paginator.TotalPages 1 }}
+<div class="pagination">
+  {{ $pag := .Paginator }}
+
+  {{ $adjacent_links := 1 }}
+  {{ $max_links := (add (mul $adjacent_links 2) 1) }}
+  {{ $lower_limit := (add $adjacent_links 1) }}
+  {{ $upper_limit := (sub $pag.TotalPages $adjacent_links) }}
+
+  {{ if $pag.HasPrev }}
+  <a href="{{ $pag.Prev.URL }}" aria-label="Previous" class="page-tag">&lt;</a>
+  {{ end }}
+
+  <!-- First page (if current page is greater than allowed limit) -->
+  {{ if ge $pag.PageNumber $max_links }}
+  <a href="{{ $pag.First.URL }}" aria-label="First" class="page-tag">1</a>
+  <span>...</span>
+  {{ end }}
+
+  <!-- Iterate the pager to show pages within ruleset -->
+  {{ range $pag.Pagers }}
+    {{ $.Scratch.Set "page_number_flag" false }}
+
+    <!-- Identify if the current page is within the ruleset to be shown (or not) -->
+    {{ if gt $pag.TotalPages $max_links }}
+      {{ if le $pag.PageNumber $lower_limit }}
+        {{ if le .PageNumber $max_links }}
+          {{ $.Scratch.Set "page_number_flag" true }}
+        {{ end }}
+      {{ else if ge $pag.PageNumber $upper_limit }}
+        {{ if gt .PageNumber (sub $pag.TotalPages $max_links) }}
+          {{ $.Scratch.Set "page_number_flag" true }}
+        {{ end }}
+      {{ else }}
+        {{ if and ( ge .PageNumber (sub $pag.PageNumber $adjacent_links) ) ( le .PageNumber (add $pag.PageNumber $adjacent_links) ) }}
+          {{ $.Scratch.Set "page_number_flag" true }}
+        {{ end }}
+      {{ end }}
+    {{ else }}
+      {{ $.Scratch.Set "page_number_flag" true }}
+    {{ end }}
+
+    {{ if eq ($.Scratch.Get "page_number_flag") true }}
+    <a href="{{ .URL }}" aria-label="{{ .PageNumber }}" class="page-tag{{ if eq . $pag }} current{{ end }}">{{ .PageNumber }}</a>
+    {{ end }}
+  {{ end }}
+
+  <!-- Show the last page index -->
+  {{ if le $pag.PageNumber (sub $pag.TotalPages (sub $max_links 1)) }}
+  <span>...</span>
+  <a href="{{ $pag.Last.URL }}" aria-label="Last" class="page-tag">{{ $pag.TotalPages }}</a>
+  {{ end }}
+
+  {{ if $pag.HasNext }}
+  <a href="{{ $pag.Next.URL }}" aria-label="Next" class="page-tag">&gt;</a>
+  {{ end }}
+</div>
+{{ end }}

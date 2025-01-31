@@ -1,19 +1,33 @@
 {{ define "main" }}
-    <h1 class="title is-1">Blog</h1>
-    <div class="container">
-      {{ range .Data.Pages }}
-      <div class="box blog-card">
-        <h1 class="title">
-          <a href="{{ .RelPermalink }}">{{ if .Draft }}[DRAFT] {{ end }}{{ .Title }}</a>
-        </h1>
-        <h2 class="subtitle">
-          By {{ if .Params.author }}{{ .Params.author }}{{ else }}CPMSoc{{ end }}
-        </h2>
-        <span class="time">{{ .PublishDate.Format "2 January 2006" }}</span>
-        
-        <p class="summary">{{ .Summary }}</p>
-        <span><a href="{{ .RelPermalink }}">Read more...</a></span>
-      </div>
+  <h1 class="title is-1">Blog</h1>
+  <div class="container">
+    {{ .Content }}
+    {{ $paginator := .Paginate .Data.Pages.ByDate.Reverse 5 }}
+    {{/* range $paginator.Pages */}}
+    {{ range .Data.Pages }}
+      {{ if not .Draft }}
+        <div class="box blog-card columns">
+          <div class="column {{ if .Params.image }}is-8{{ else }}is-12{{ end }}">
+            <h2 class="title">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </h2>
+            <h3 class="subtitle">
+              {{ if .Params.author }}{{ .Params.author }}, {{ end }}{{ .PublishDate.Format "2 January 2006" }}
+            </h3>
+            {{/* hack from https://discourse.gohugo.io/t/inline-more-summary-separator-creates-paragraphs/21369/5 */}}
+            {{ replaceRE "(</p>)?$" "" .Summary | safeHTML }}
+            (<a href="{{ .RelPermalink }}">read more</a>)
+            {{ printf "</p>" | safeHTML }}
+          </div>
+          {{ if .Params.image }}
+            <div class="column has-text-right is-4">
+              <img src="{{ .Params.image }}">
+            </div>
+          {{ end }}
+        </div>
       {{ end }}
-    </div>
+    {{ end }}
+    {{/* partial "pagination.html" . */}}  
+  </div>
 {{ end }}
+
