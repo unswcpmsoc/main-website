@@ -2,7 +2,6 @@
 title: 'Implementation tips for competitive programming'
 date: 2021-06-04T07:30:00.000-07:00
 draft: false
-url: /2021/06/implementation-tips-for-competitive.html
 tags: 
 - beginner
 author: 'Angus Ritossa and Isaiah Iliffe'

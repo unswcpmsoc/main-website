@@ -2,7 +2,6 @@
 title: 'Sqrt linked lists'
 date: 2022-06-08T19:50:00.003-07:00
 draft: false
-url: /2022/05/sqrt-linked-lists.html
 tags: 
 - advanced
 author: 'Ryan Ong'

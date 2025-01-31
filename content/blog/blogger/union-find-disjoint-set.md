@@ -2,7 +2,6 @@
 title: 'Union-find Disjoint set'
 date: 2022-06-22T18:41:00.009-07:00
 draft: false
-url: /2022/06/union-find-disjoint-set.html
 tags: 
 - advanced
 author: 'David Zhou'

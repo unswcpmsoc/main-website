@@ -2,7 +2,6 @@
 title: 'Tips for Competitive Programming'
 date: 2022-07-22T00:12:00.017-07:00
 draft: false
-url: /2022/07/tips-for-competitive-programming.html
 tags: 
 - beginner
 - advanced

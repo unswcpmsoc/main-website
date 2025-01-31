@@ -2,7 +2,6 @@
 title: 'Interactive Tasks'
 date: 2022-07-28T19:25:00.005-07:00
 draft: false
-url: /2022/07/interactive-tasks.html
 author: 'Angus Ritossa'
 ---
 

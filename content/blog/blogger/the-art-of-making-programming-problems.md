@@ -2,7 +2,6 @@
 title: 'The Art of Making Programming Problems'
 date: 2022-08-08T05:40:00.002-07:00
 draft: false
-url: /2022/08/the-art-of-making-programming-problems.html
 author: 'Isaiah Iliffe'
 image: 'https://lh5.googleusercontent.com/9iGpfhdr7NJAtzmmF7FPG9e_wM0hWWgU2noGEALSnrA9dmCZtmxuoXnP7aR4h0ogqJ2KGIdFO9B8Vq8EMHOH_NLe2nsGFdoArs6DyLqFxr613xmslWrMcJHxM6xsHzJ8oBK_XwgtdYi5v0gAEwX0Fto'
 ---
