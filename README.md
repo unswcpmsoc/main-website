@@ -1,48 +1,11 @@
 UNSW CPMSoc Website
-===============
-## File Layout
+===================
 
-#### Page Files
-
-All the page files are in `content` as markdown (md) or html files.
-
-The file header looks like
-```
----
-title: "pagename"
-menu: "main"
-weight: 100
----
-```
-where title is the name of the page, menu should be main to tell it which navigation bar to attach to, weight is the order it appears in the navigation bar (lower means more left).
-
-The rest of the file is pure markdown or html.
-
-#### Javascript
-
-If you need javascript, put it under `content/scripts` with a descriptive filename.
-
-#### Page Assets
-
-Any small assets such as images go under `static/assets`. Large files should be uploaded to a separate service such as Google Drive and the webpage should link to it.
-
-#### Styles
-
-Do not style HTML directly. Styling should be done through classes in `themes/cpmsoc/assets/sass`. Add an scss file and add the styles under a class. If you make a new file, import it in `main.scss`.
-
-Bulma variables are contained in `variables.scss`. More information at (https://bulma.io/documentation/customize/variables/). This includes things such as background colour.
-
-#### Default Styles
-
-In `themes/cpmsoc/layouts/partials` are things like the footer, header and navbar item information.
-
-#### Config
-
-`config.toml` is the Hugo configuration file. More information at (https://gohugo.io/getting-started/configuration/).
+We use the static site generator [Hugo](https://gohugo.io/documentation/).
 
 ## Testing Locally
 
-1. Set up hugo (https://gohugo.io/getting-started/installing/). Probably easier to download the
+1. Set up Hugo (https://gohugo.io/getting-started/installing/). Probably easier to download the
 release straight from GitHub. Use hugo-extended as we need support for scss compilation.
 2. Download node.js (https://nodejs.org/en/) and also yarn (https://yarnpkg.com/).
 3. Clone the project and cd into the directory.
@@ -58,24 +21,39 @@ as many times as you like and it will automatically rebuild to the same URL.
 4. When you're happy, merge the pull request. Always do a "squash and merge" in order to declutter
 the history. Also delete the branch once you're done.
 
-## Notes
+## File Layout Primer
 
-1. To make a dropdown item on the navigation bar, add
-```
-[menu]
-  [[menu.main]]
-  name = "dummy"
-  weight = 5
-```
-to `config.toml` with the name and weight replaced with whatever is suitable. Create a folder in `content` with the name of the top level dropdown, and put markdown and html files into it.
+#### Page Files
 
-Each file header should be
-```
-title: "dummy2"
-menu:
-  main:
-    parent: "dummy"
-    weight: 20
-```
-with the title being the page title, the parent being the name of the top level dropdown, and the weight being whatever is suitable.
+All the page files are in `content` as markdown (md) or html files.
 
+The file starts with some page metadata in yaml.
+
+For example, in
+```
+---
+title: "Home"
+menu: "main"
+weight: 1
+---
+```
+`title` is the page title, `menu` is the navigation bar to attach the page to, and `weight` positions the page in the navigation bar.
+
+The rest of the file is pure markdown or html.
+
+#### Page Assets
+
+Assets such as images specific to a particular page are best to attach using [page bundles](https://gohugo.io/content-management/page-bundles/), like is done in `content/sponsors`. Alternatively, they can go under `static/assets`, though this is best reserved for assets used by more than one page. Large files should perhaps be uploaded to a separate service such as Google Drive and then linked to.
+
+#### Layouts
+
+The main beauty of Hugo is in its layout system.
+Roughly, this is how page content is automatically generated so you don't copy and paste html everywhere.
+Here are some ways we use it for this project. Files are in `themes/cpmsoc/layouts`.
+
+- Partials: repeated elements like the footer, header and navbar system
+- Competitions: competitions list page is fully generated from the metadata in the individual competition pages
+
+#### Config
+
+`config.toml` is the Hugo configuration file. More information at (https://gohugo.io/getting-started/configuration/).
