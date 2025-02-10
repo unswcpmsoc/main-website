@@ -16,7 +16,7 @@ to = "https://forms.gle/L9VeEY8ZDqYKDyha6"
 
 [[redirects]]
 from = "/apply"
-to = "https://forms.gle/2ppFkLYxngP16dxi9"
+to = " https://forms.gle/Gy9vLp2XEfTW6Le36"
 
 [[redirects]]
 from = "/attendance"
@@ -26,3 +26,6 @@ to = "https://forms.gle/VKT3GeYGrZtFu4CQA"
 from = "/feedback"
 to = "https://forms.gle/a8TAMjrpEWSD3TWj6"
 
+[[redirects]]
+from = "/guide"
+to = "https://www.canva.com/design/DAGcjD1Ty-U/0D3aYo0iTo2TSEPV9JTV1g/view?utm_content=DAGcjD1Ty-U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h89a3b7427e"
