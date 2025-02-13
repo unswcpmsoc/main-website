@@ -51,8 +51,8 @@ The main beauty of Hugo is in its layout system.
 Roughly, this is how page content is automatically generated so you don't copy and paste html everywhere.
 Here are some ways we use it for this project. Files are in `themes/cpmsoc/layouts`.
 
-- Partials: repeated elements like the footer, header and navbar system
-- Competitions: competitions list page is fully generated from the metadata in the individual competition pages
+- Partials: repeated elements like the footer, header and navbar system.
+- Competitions: the competitions list page is fully generated from the metadata in the individual competition pages.
 
 #### Config
 

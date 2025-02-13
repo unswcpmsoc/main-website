@@ -8,11 +8,11 @@
                 <ul>
                     {{ range .Pages }}
                         <li>
-                            {{ .Title }}
-                            (<a href="{{ .RelPermalink }}">full details</a>{{ range $key, $val := .Params.extralinks }},
+                            {{ .Title }}:
+                            <a href="{{ .RelPermalink }}">full details</a>{{ range $key, $val := .Params.extralinks }},
                             <a href="{{ $val }}">{{ $key }}</a>{{ end }}{{ range .Resources }},
                             <a href="{{ .RelPermalink }}">{{ replace (strings.TrimSuffix (path.Ext .Name) .Name) "_" " " }}</a>{{ end }}{{ range .Pages }},
-                            <a href="{{ .RelPermalink }}">{{ replace .File.BaseFileName "_" " " }}</a>{{ end }})
+                            <a href="{{ .RelPermalink }}">{{ replace .File.BaseFileName "_" " " }}</a>{{ end }}
                         </li>
                     {{ end }}
                 </ul>
