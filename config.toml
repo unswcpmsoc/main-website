@@ -26,14 +26,6 @@ weight = 3
 [[menu.main]]
 identifier = "aboutus"
 name = "About Us"
-weight = 4 
-
-# Add blogs to resources
-[[menu.main]]
-identifier = "blog"
-name = "Blog"
-parent = "resources"
-url = "https://unswcpmsoc.wordpress.com/"
 weight = 4
 
 # Add workshops again to events

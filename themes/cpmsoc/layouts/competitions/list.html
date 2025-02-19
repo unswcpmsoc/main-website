@@ -2,7 +2,7 @@
     <h1 class="title is-1">{{ .Title }}</h1>
     <div class="content">
         {{ .Content }}
-        {{ if .Param "competitions_root" }}
+        {{ if .Params.competitions_root }}
             {{ range .Pages.GroupByDate "2006" }}
                 <h2>{{ .Key }}</h2>
                 <ul>

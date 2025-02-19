@@ -111,3 +111,27 @@ body, html {
     color: $primary-color;
     padding: 1rem 1rem 1rem !important;
 }
+
+.page-tag {
+    border: $primary-color 1px solid;
+    color: $primary-color;
+    border-radius: 5px;
+    padding: 2px 4px;
+    margin: 1px;
+    text-align: center;
+    display: inline-block;
+    min-width: 20px;
+    overflow-wrap: normal;
+  }
+.pagination {
+    margin-top: 0.5rem;
+    padding: 0;
+    text-align: center;
+}
+.pagination li {
+    display: inline-block;
+}
+.pagination ul li a {
+    height: 2rem;
+    width: 2rem;
+}
