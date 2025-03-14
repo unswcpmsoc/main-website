@@ -3,7 +3,7 @@ title: "Workshops"
 menu: 
     main: 
         parent: "events"
-        weight: 2
+        weight: 1
 ---
 
 # Programming 2025
