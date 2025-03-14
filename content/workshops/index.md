@@ -2,9 +2,13 @@
 title: "Workshops"
 menu: 
     main: 
-        parent: "resources"
-        weight: 3
+        parent: "events"
+        weight: 2
 ---
+
+# Programming 2025
+-   Term 1 Week 2 - Intro to Competitive Programming:
+    [slides](programming/2025/t1w2.pdf)
 
 # Programming 2024
 -   Term 1 Week 1 - Acing Technical Interviews:
