@@ -9,6 +9,8 @@ menu:
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
     [slides](programming/2025/t1w2.pdf)
+-   Term 1 Week 5 - Master Recursion:
+    [slides](programming/2025/t1w5.pdf)
 
 # Programming 2024
 -   Term 1 Week 1 - Acing Technical Interviews:
