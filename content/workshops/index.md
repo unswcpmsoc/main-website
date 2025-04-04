@@ -12,6 +12,8 @@ menu:
 -   Term 1 Week 4 - Intro to Dynamic Programming: [slides](programming/2025/t1w4.pdf)
 -   Term 1 Week 5 - Master Recursion:
     [slides](programming/2025/t1w5.pdf)
+-   Term 1 Week 7 - Dynamic Programming II:
+    [slides](programming/2025/t1w7.pdf)
 
 # Programming 2024
 -   Term 1 Week 1 - Acing Technical Interviews:
