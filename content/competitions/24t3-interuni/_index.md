@@ -4,7 +4,6 @@ date: 2024-09-21
 ---
 
 - [Facebook event](https://www.facebook.com/events/2157074051335384)
-- [Leaderboard](leaderboard)
 - [Advanced Leaderboard](advanced_leaderboard)
 - [Beginner Leaderboard](beginner_leaderboard)
 
