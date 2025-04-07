@@ -22,7 +22,7 @@ Prize Winners:
 1. Joshua Jiashuo Li (JoshuaLi)
 
 - First Year: (ciple), Anubhav Ammangi (SirLemonMeringue), Naman Doshi (Imkae)
-- Women and Gender Minorities: Susan He (poko), (deeznuts6969opps), Esther Djaidiguna (deeznuts6969)
+- Women and Gender Minorities: Susan He (poko), Merry Rosalie (deeznuts6969opps), Esther Djaidiguna (deeznuts6969)
 - Raffle: Simon Tan (Simon), Raymond Zhaung (capybaraslap), (teddy), (Spalmon)
 
 Problems by Frank Zhang and Jerry Li
