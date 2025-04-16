@@ -26,4 +26,4 @@ Beginner Division Winners:
 - Raffle: Ansh Ganne, Keegan Jonathan Yung, Edward Wenkai Liu (E)
 - Raffle: Alexander Clancy, Oliver D'souza, Jasper Devir (thewinningteam)
 
-Problems by Frank Zhang, Jerry Li, Kyle Zhang and Luke Yang
+Problems by Frank Zhang, Jerry Li, Kyle Zhang and Luke Zeng
