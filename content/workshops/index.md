@@ -15,6 +15,14 @@ menu:
 -   Term 1 Week 7 - Dynamic Programming II:
     [slides](programming/2025/t1w7.pdf)
 
+# Mathematics 2025
+-   Term 1 Week 3 - Number Theory:
+    [slides](mathematics/2025/workshop_1_slides.pdf).
+    [questions](mathematics/2025/workshop_1_problems.pdf)
+-   Term 1 Week 7 - Methods of Counting:
+    [slides](mathematics/2025/workshop_2_slides.pdf).
+    [questions](mathematics/2025/workshop_2_problems.pdf)
+
 # Programming 2024
 -   Term 1 Week 1 - Acing Technical Interviews:
     [slides](programming/2024/t1w1.pdf)
