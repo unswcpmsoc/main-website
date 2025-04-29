@@ -1,10 +1,10 @@
 ---
-title: "2025 O-Week Snake Contest"
+title: "2025 Competitive Pizza Making Situated Contest"
 date: 2025-02-10
 ---
 
 - [Facebook event](https://www.facebook.com/events/637375629128412/)
-- [Problems](problems.pdf)
+- [Problems](statement.pdf)
 - [Debrief Slides](debrief.pdf)
 - [Leaderboard](leaderboard)
 
