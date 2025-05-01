@@ -29,6 +29,23 @@ We use technology and data to trade diverse assets and execute various trading s
 
 Employee wellbeing and growth is at the heart of our ethos and we create a positive impact by sharing our profits and our purposefully chosen social causes with our people.
 
+<img src="sig_logo.png" style="height: 100px; margin: auto; display: block; padding-bottom: 10px"/>
+
+Susquehanna is a global quantitative trading firm founded by a group of friends who share a passion for game theory and probabilistic thinking. Our rigorous and analytical approach to decision making has led Susquehanna to become one of the largest and most successful proprietary trading firms in the world. In our offices around the globe, our employees are relentless problem solvers who collaborate to make optimal decisions.
+
+
+<img src="imc_logo.png" style="height: 90px; margin: auto; display: block; padding-bottom: 20px"/>
+
+As a leading, global market maker, IMC trades on more than 100 venues and provides liquidity in more than 200,000 securities. Using innovative technology and advanced trading strategies, we've played our part in making financial markets more efficient for almost 30 years.
+
+Across offices, diverse teams of traders, developers and technologists work together to design and develop the software, hardware, networks and algorithms that drive our strategies and make us one of the world’s leading liquidity providers. We hire independent thinkers and challenge them to anticipate change and continuously innovate, seeking new ways to sustain our success. At IMC, anyone can make an impact and everyone is encouraged to do so.
+
+<img src="mako_logo.png" style="height: 150px; margin: auto; display: block; padding-bottom: 10px"/>
+
+We make markets in exchange-traded fixed income, equities and commodities products, providing liquidity to major exchanges in Europe, APAC and the Americas. Our reputation is built upon our consistent provision of liquidity across all market cycles, especially periods of high market stress.
+
+Now, a large percentage of our global workforce is dedicated to designing, building, optimizing and maintaining our latency sensitive proprietary trading systems. Our success in this journey is underpinned by our expertise developed over the last 20 years as well as our entrepreneurial and collaborative culture. We are proud of our history, however we firmly believe that our commitment to rapid innovation and support of intellectual curiosity means that our best days are ahead of us.
+
 # Affiliate Sponsors
 
 <div style="display: flex; justify-content: center;">
