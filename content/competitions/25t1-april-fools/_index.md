@@ -1,6 +1,6 @@
 ---
 title: "2025 Competitive Pizza Making Situated Online Contest"
-date: 2025-02-10
+date: 2025-04-16
 ---
 
 - [Facebook event](https://www.facebook.com/events/637375629128412/)
