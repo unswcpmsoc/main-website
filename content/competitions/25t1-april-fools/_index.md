@@ -1,5 +1,5 @@
 ---
-title: "2025 Competitive Pizza Making Situated Contest"
+title: "2025 Competitive Pizza Making Situated Online Contest"
 date: 2025-02-10
 ---
 
