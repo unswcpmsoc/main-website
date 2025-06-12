@@ -4,7 +4,7 @@ date: 2025-04-16
 ---
 
 - [Facebook event](https://www.facebook.com/events/637375629128412/)
-- [Problems](statement.pdf)
+- [Problems](problems.pdf)
 - [Debrief Slides](debrief.pdf)
 - [Leaderboard](leaderboard)
 
