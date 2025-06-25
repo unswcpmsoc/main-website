@@ -1,12 +1,10 @@
 ---
 title: "2025 Rookie Code Rumble (CSESoc x CPMSoc)"
-date: 2024-06-24
+date: 2025-06-11
 ---
 
 - [Facebook event](https://www.facebook.com/events/1123894406450293/)
 - [Problems](problems.pdf)
-- [Templates](templates.zip)
-- [Test data](test_data.zip)
 - [Leaderboard](leaderboard)
 
 Prize Winners
