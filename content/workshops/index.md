@@ -14,6 +14,8 @@ menu:
     [slides](programming/2025/t1w5.pdf)
 -   Term 1 Week 7 - Dynamic Programming II:
     [slides](programming/2025/t1w7.pdf)
+-   Term 2 Week 3 - Graphs 101:
+    [slides](programming/2025/t2w3.pdf)
 
 # Mathematics 2025
 -   Term 1 Week 3 - Number Theory:
