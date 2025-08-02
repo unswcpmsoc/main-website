@@ -18,6 +18,8 @@ menu:
     [slides](programming/2025/t2w3.pdf)
 -   Term 2 Week 7 - Graphs 2.0:
     [slides](programming/2025/t2w7.pdf)
+-   Term 2 Week 9 - COMP3121 Revision Problems with Solutions:
+    [slides](programming/2025/t2w9.pdf)
 
 # Mathematics 2025
 -   Term 1 Week 3 - Number Theory:
@@ -253,3 +255,4 @@ menu:
     [slides](mathematics/2021/workshop_9_slides.pdf),
     [problems](mathematics/2021/workshop_9_problems.pdf),
     [recording](https://youtu.be/0b1D-Iv-B1E)
+
