@@ -27,5 +27,9 @@ from = "/feedback"
 to = "https://forms.gle/a8TAMjrpEWSD3TWj6"
 
 [[redirects]]
+from = "/submit"
+to = "https://forms.gle/8W5TZ3UGP9L3Xo579"
+
+[[redirects]]
 from = "/guide"
 to = "https://www.canva.com/design/DAGcjD1Ty-U/0D3aYo0iTo2TSEPV9JTV1g/view?utm_content=DAGcjD1Ty-U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h89a3b7427e"
