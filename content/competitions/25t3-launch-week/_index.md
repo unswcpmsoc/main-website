@@ -24,4 +24,4 @@ First Year: Anthony Ivanov (vivant), Gavin Min (gavvin), Gabriel Yip (goon)
 Women and Gender Minorities: Susan He (poko), Yuexi He (tini), Ava Cameron (taiga137)
 Raffle: Simon Tan (cosintheta), Jacob Mueller (icecarbon), Kelvin Chan (rtrgrd)
 
-Problems by Frank Zhang, Jerry Li, Isaiah Iliffe, Noah Batsukh, Joshua Li
+Problems by Frank Zhang, Jerry Li, Noah Batsukh, Joshua Li, Isaiah Iliffe, Ryan Ong
