@@ -20,7 +20,27 @@ function toggleIneligible() {
 }
 </script>
 
-<div class="table-responsive is-scroll-x is-size-7" id="container" style="transform: rotate(180deg)">
+<style>
+.score {
+    display: inline;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.score-0-1{background-color: rgba(0, 255, 0, 0.04);}
+.score-1-2{background-color: rgba(0, 255, 0, 0.08);}
+.score-2-3{background-color: rgba(0, 255, 0, 0.12);}
+.score-3-4{background-color: rgba(0, 255, 0, 0.16);}
+.score-4-5{background-color: rgba(0, 255, 0, 0.2);}
+.score-5-6{background-color: rgba(0, 255, 0, 0.24);}
+.score-6-7{background-color: rgba(0, 255, 0, 0.28);}
+.score-7-8{background-color: rgba(0, 255, 0, 0.32);}
+.score-8-9{background-color: rgba(0, 255, 0, 0.36);}
+.score-9-10{background-color: rgba(0, 255, 0, 0.4);}
+.score-10{background-color: rgba(0, 255, 0, 0.5);}
+</style>
+
+<div class="table-responsive is-scroll-x is-size-7" id="container">
     <table class="table table-hover" data-sortable="" data-sortable-initialized="true">
         <thead>
             <tr>
