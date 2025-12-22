@@ -6,8 +6,7 @@ We use the static site generator [Hugo](https://gohugo.io/documentation/).
 ## Testing Locally
 
 1. Set up Hugo (https://gohugo.io/getting-started/installing/). Probably easier to download the
-release straight from GitHub. Use hugo-extended as we need support for scss compilation. 
-    If you are getting an error when serving, use **v0.127.0**.
+release straight from GitHub. Use hugo-extended as we need support for scss compilation.
 2. Download node.js (https://nodejs.org/en/) and also yarn (https://yarnpkg.com/).
 3. Clone the project and cd into the directory.
 4. Run `yarn` to install postcss-cli.
