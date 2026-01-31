@@ -25,11 +25,16 @@ menu:
 
 # Mathematics 2025
 -   Term 1 Week 3 - Number Theory:
-    [slides](mathematics/2025/workshop_1_slides.pdf).
+    [slides](mathematics/2025/workshop_1_slides.pdf),
     [questions](mathematics/2025/workshop_1_problems.pdf)
 -   Term 1 Week 7 - Methods of Counting:
-    [slides](mathematics/2025/workshop_2_slides.pdf).
+    [slides](mathematics/2025/workshop_2_slides.pdf),
     [questions](mathematics/2025/workshop_2_problems.pdf)
+-   Term 2 - Intro Geometry:
+    [slides]
+
+-   Term 2 - Game Theory:
+-   Term 2 - Integration
 
 # Programming 2024
 -   Term 1 Week 1 - Acing Technical Interviews:
@@ -257,6 +262,7 @@ menu:
     [slides](mathematics/2021/workshop_9_slides.pdf),
     [problems](mathematics/2021/workshop_9_problems.pdf),
     [recording](https://youtu.be/0b1D-Iv-B1E)
+
 
 
 
