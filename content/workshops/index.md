@@ -31,10 +31,14 @@ menu:
     [slides](mathematics/2025/workshop_2_slides.pdf),
     [questions](mathematics/2025/workshop_2_problems.pdf)
 -   Term 2 - Intro Geometry:
-    [slides]
-
--   Term 2 - Game Theory:
+    [slides](mathematics/2025/CPMSOC_2025___Intro_Geometry.pdf),
+    [questions](mathematics/2025/CPMSOC_2025___Geometry_Questions/pdf)
+-   Term 2 - Combinatorical Game Theory:
+    [slides](mathematics/2025/CPMSOC_2025___Combinatorial_Game_Theory.pdf),
+    [questions](mathematics/2025/CPMSOC_2025___Combinatorial_Game_Theory_Questions.pdf)
 -   Term 2 - Integration
+    [slides](CPMSOC_2025___Integration.pdf),
+    [questions](CPMSOC_2025___Integration_Questions.pdf)
 
 # Programming 2024
 -   Term 1 Week 1 - Acing Technical Interviews:
@@ -262,6 +266,7 @@ menu:
     [slides](mathematics/2021/workshop_9_slides.pdf),
     [problems](mathematics/2021/workshop_9_problems.pdf),
     [recording](https://youtu.be/0b1D-Iv-B1E)
+
 
 
 
