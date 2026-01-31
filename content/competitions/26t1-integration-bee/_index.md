@@ -6,7 +6,7 @@ date: 2026-02-10
 - [Facebook event] (to be added)
 - [Problems] (to be added)
 - [Leaderboard] (to be added)
-- [Appetizer Problems](/Integration Bee Appetizers.pdf)
+- [Appetizer Problems](<Integration Bee Appetizers.pdf>)
 
 Prize Winners
 
