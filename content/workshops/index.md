@@ -24,12 +24,21 @@ menu:
 -   Term 3 Week 9 - COMP3821 Revision Session: [solutions](programming/2025/t3w9.pdf)
 
 # Mathematics 2025
--   Term 1 Week 3 - Number Theory:
-    [slides](mathematics/2025/workshop_1_slides.pdf).
+-   Term 1 Week 3 - Number Theory: 
+    [slides](mathematics/2025/workshop_1_slides.pdf),
     [questions](mathematics/2025/workshop_1_problems.pdf)
--   Term 1 Week 7 - Methods of Counting:
-    [slides](mathematics/2025/workshop_2_slides.pdf).
+-   Term 1 Week 7 - Methods of Counting: 
+    [slides](mathematics/2025/workshop_2_slides.pdf),
     [questions](mathematics/2025/workshop_2_problems.pdf)
+-   Term 2 - Intro Geometry: 
+    [slides](mathematics/2025/CPMSOC_2025___Intro_Geometry.pdf),
+    [questions](mathematics/2025/CPMSOC_2025___Geometry_Questions/pdf)
+-   Term 2 - Combinatorical Game Theory: 
+    [slides](mathematics/2025/CPMSOC_2025___Combinatorial_Game_Theory.pdf),
+    [questions](mathematics/2025/CPMSOC_2025___Combinatorial_Game_Theory_Questions.pdf)
+-   Term 2 - Integration: 
+    [slides](mathematics/2025/CPMSOC_2025___Integration.pdf),
+    [questions](mathematics/2025/CPMSOC_2025___Integration_Questions.pdf)
 
 # Programming 2024
 -   Term 1 Week 1 - Acing Technical Interviews:
@@ -257,6 +266,10 @@ menu:
     [slides](mathematics/2021/workshop_9_slides.pdf),
     [problems](mathematics/2021/workshop_9_problems.pdf),
     [recording](https://youtu.be/0b1D-Iv-B1E)
+
+
+
+
 
 
 
