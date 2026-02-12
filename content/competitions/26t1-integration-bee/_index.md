@@ -10,4 +10,4 @@ date: 2026-02-10
 Prize Winners
 - To be added 
 
-Problems by Thomas Liao, Brendan Mabbutt, and Kevin Du. 
+Problems by Thomas Liao and Kevin Du. 
