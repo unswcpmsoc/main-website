@@ -8,7 +8,7 @@ menu:
 
 # Programming 2026
 -   Term 1 Week 1 - Intro to Competitive Programming:
-    [slides](programming/2026/t1w1.pdf)
+    [slides](programming/2026/t1w1.pdf),
     [problemset (pwd: cpmsoc)](https://vjudge.net/contest/790218)
 
 # Programming 2025
