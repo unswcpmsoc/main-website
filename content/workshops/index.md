@@ -16,6 +16,13 @@ menu:
     [slides](mathematics/2026/Intro%20to%20Quant%20v3.0.pdf),
     [problems](mathematics/2026/Introduction%20to%20Quant%20Problems.pdf),
     [recording](https://www.youtube.com/watch?v=hPaYkQq8FGs)
+-   Term 1 Week 3 - Proof By Contradiction:
+    [slides](mathematics/2026/Proof%20by%20Contradiction%20Slides.pdf),
+    [problems](mathematics/2026/Contradiction%20Worksheet%20Questions.pdf),
+    [solutions](mathematics/2026/Contradiction%20Worksheet%20Solutions.pdf),
+    [annotations](Proof%20By%20Contradiction%20IPad%20Annotations.pdf),
+    [extra problems (drip marketing)](mathematics/2026/A%20Contradictory%20taste%20of%20Competitive%20Mathematics.pdf)
+    [recording](youtube.com/watch?v=tk0kx9SmuUc&feature=youtu.be)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
@@ -277,6 +284,7 @@ menu:
     [slides](mathematics/2021/workshop_9_slides.pdf),
     [problems](mathematics/2021/workshop_9_problems.pdf),
     [recording](https://youtu.be/0b1D-Iv-B1E)
+
 
 
 
